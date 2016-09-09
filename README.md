@@ -13,7 +13,7 @@ After git bash for windows is installed, naviagte to `C:\workspace\` using the g
 git clone https://github.com/danhamill/sandbar_process.git
 ```
 ## Repository Structure
-The scripts and macros contained in this repository have hard coded paths and requires a specified directory structure
+The scripts and macros contained in this repository have hard coded paths and requires the following directory structure
 
 ### Directory Structure for binvol_inputs
 Each monitoring sites input data files are organized in `binvol_inputs`.  `binvol_inputs` contains the following subfolders:
