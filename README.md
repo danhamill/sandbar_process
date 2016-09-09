@@ -1,27 +1,100 @@
-[logo]: https://github.com/danhamill/sandbar_process/blob/master/NAU_Logo.png
-
+[logo]: https://github.com/danhamill/sandbar_process/blob/master/NAU_Logo.png "NAU Logo"
 
 # sandbar_process
 This repostiory contains all of the input files, scripts, and instructions required to compile the sandbar database
 
 
-## Steps to compile binvol files
-Input files go in binvol_inputs organized in correct structure (see below)
-
+## Repository Structure
+Each monitoring sites input data files are organized in `binvol_inputs`.  `binvol_inputs` contains the following subfolders:
 * One_Sandbar_With_Bath_Text
 * One_Sandbar_WithOut_Bath_Text 
 * Two_Bar_With_Bath_Text
+ 
+### Directory Structure for binvol_inputs
 
-### Compilation Process Overview
-1) open Sandbar_Process_Run.xlsm and hit the top button.
+1) Each site folder contained in `binvol_inputs\One_Sandbar_With_Bath_Text` has the following subfolders:
+* chanminto8k
+* eddy8kto25k
+* eddyabove25k
+* eddyminto8k
 
-2) Run bar_data_compile.py from bash command line. Type: "python bar_data_compile.py"
+2) Each site folder contained in `binvol_inputs\One_Sandbar_WithOut_Bath_Text` has the following subfolders:
+* eddy8kto25k
+* eddyabove25k
 
-3) Run the R scripts (open Batch_Run_R_Scripts.R and hit the "Source" button.
+3) Each site folder contained in `binvol_inputs\Two_Bar_With_Bath_Text` has the following subfolders:
+* Channel
+* Eddy reattachment
+    * eddy8kto25k
+    * eddyabove25k
+    * eddyminto8k
+* Eddy separation
+    * eddy8kto25k
+    * eddyabove25k
+    * eddyminto8k
+The compiled binvol inputs are organized in `csv_output`.  `csv_output` contains the following subfolders:
+* CSVs
+* No_Bath_CSVs
+* Two_Bar_CSVs
+### Directory Structure for csv_output
+1) Each site folder contained in `csv_output\CSVs` contains the following files:
+* Channel_Low_Elevation.csv
+* Eddy_Fluctuating_Zone.csv
+* Eddy_High_Elevation_Zone.csv
+* Eddy_Low_Elevation_Zone.csv
+* Total_Eddy.csv
+    * This file is the summmation of
+       * Eddy_Fluctuating_Zone.csv
+       * Eddy_High_Elevation_Zone.csv
+       * Eddy_Low_Elevation_Zone.csv
+2) Each site folder contained in `csv_output\No_Bath_CSVs` contains the following files:
+* Eddy_Fluctuating_Zone.csv
+* Eddy_High_Elevation_Zone.csv
+3) Each site folder contained in `csv_output\Two_Bar_CSVs` contains the following files:
+* Channel_Low_Elevation.csv
+* _R_Fluc.csv
+* _R_High.csv
+* _R_Low.csv
+* _S_Fluc.csv
+* _S_High.csv
+* _S_Low.csv
+* Eddy_Fluctuating_Zone.csv
+   * This file is the summmation of
+       * _R_Fluc.csv
+       * _S_Fluc.csv
+* Eddy_High_Elevation_Zone.csv
+   * This file is the summmation of
+       * _R_High.csv
+       * _S_High.csv
+* Eddy_Low_Elevation_Zone.csv
+   * This file is the summmation of
+       * _R_Low.csv
+       * _S_Low.csv
+* Total_Eddy.csv
+    * This file is the summmation of
+       * Eddy_Fluctuating_Zone.csv
+       * Eddy_High_Elevation_Zone.csv
+       * Eddy_Low_Elevation_Zone.csv
 
-4) Back to Sandbar_Process_Run.xlsm and hit the bottom button to produce the formatted tables.
+## Compilation Process Overview
+1) Run compilation macros contained in `Sandbar_Process_Run.xlsm` 
+```
+Press to Run Sandbar Processing Macro
+```
 
-**!! Must run Excel VB script first. Can run R and Python in either order. Then second VB script to produce formatted tables.**
+2) Run bar_data_compile.py 
+```
+python bar_data_compile.py
+```
+3) Open Batch_Run_R_Scripts.R 
+```
+hit the "Source" button.
+```
+4) Run Formatted table macros contained in `Sandbar_Process_Run.xlsm` 
+```
+Press to Run Macro to produce formatted tables
+```
+**!! Must run Excel VB compilation macros first. Steps 2 and 3 can be completed in any order. Step 4 requires outputs from Step 3.**
 
 ---
 ## Necessary files and directories and where they need to be:
@@ -63,29 +136,6 @@ C:\workspace\sandbar_process\plotting_out
 ```
 C:\workspace\sandbar_process\binvol_inputs
 ```
----
-## Directory Structure for binvol_inputs
-
-1) Each site folder contained in `binvol_inputs\One_Sandbar_With_Bath_Text` has the following subfolders:
-* chanminto8k
-* eddy8kto25k
-* eddyabove25k
-* eddyminto8k
-
-2) Each site folder contained in `binvol_inputs\One_Sandbar_WithOut_Bath_Text` has the following subfolders:
-* eddy8kto25k
-* eddyabove25k
-
-3) Each site folder contained in `binvol_inputs\Two_Bar_With_Bath_Text` has the following subfolders:
-* Channel
-* Eddy reattachment
-    * eddy8kto25k
-    * eddyabove25k
-    * eddyminto8k
-* Eddy separation
-    * eddy8kto25k
-    * eddyabove25k
-    * eddyminto8k
 ---
 ## Notes:
 
