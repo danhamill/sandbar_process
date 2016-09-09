@@ -1,0 +1,31 @@
+2/22/2016
+
+30R 7/28/1991 was missing eddy8kto25k (eddyabove25k was entered twice)
+30R 10/17/1992 was missing eddy8kto25k (eddyabove25k was entered twice)
+30R 10/17/1992 was missing eddyminto8k 
+62R 5/9/2005 has binvol files for eddy8kto25k and eddyabove25k but no entries in lookup table
+62R mismatch between lookup table and binvol files. 2/9/2008 in lookup table. chan, eddy8-25, and eddymin had 2/8/2008 in filenames.
+65R mismatch between lookup table and binvol files. 9/15/2000 in lookup table. 20000911 in binvol files.
+
+2/15/2016
+
+ There were no zero value files for the reattachment bar at nautiloid for 2015.  I added those files.  The 2015 survey date for 22R is listed as 9/25 (in binvol files and lookup table) while the date for 24L is 9/24. One of those has to be wrong, and I'm pretty sure it would be 22-mile. On both of those, make appropriate notes and file name corrections so those errors don't happen again.  Date_Error_lookup.xlsx is the current version of the full error and trip date lookup table. Please delete or move to an archive folder any previous versions.
+
+1/28/2016
+
+I didn't use the "channel" data at all yet. These are notes on what I did with the "eddy" data.
+
+1) corrected values for Redwall for 2015 with values Rob supplied.
+2) data for abv25k bin for 29L (was missing). Added values Rob supplied.
+3) all the reattachment bar sites that had missing values when they should be zeros (I think). I added zero values. used "estimated" tag.
+4) separation bar at 50r had no data for Feb. 2008. estimated with values from previous survey. used "estimated" tag.
+5) 56r had no data for Feb. 2008. estimated with values from previous survey. used "estimated" tag.
+
+I noticed the following other issues that I didn't resolve.
+1) Redwall: 2015 value is pretty small. Is this correct?
+2) 51L has 62R data
+3) 91R inconsistent between 8-25 and abv25 bins (8-25k data missing for 9/29/03)
+4)  62R has bad 1993 data  (or was volume really 13000 m^3 in 1993 then 300 m^3 in 1994?)
+5) 172 has zero values for >25k bin in 2003
+6) 225 has problem with June 2008 (values way too low). Also has zero values in >25k bin in 1991 and 1992.
+7) Also for 29L there are data for 5/6/2002 for abv.25k bin, but not for 8-25k bin. 5/6/2002 is not in lookup table.

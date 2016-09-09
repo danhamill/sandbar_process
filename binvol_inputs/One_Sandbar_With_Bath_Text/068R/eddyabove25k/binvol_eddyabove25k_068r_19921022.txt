@@ -1,0 +1,2 @@
+Site,Date,Plane_Height,Area_2D,Area_3D,Volume
+068r,19921022,above25k,463.045666391,467.847419012,118.726312097

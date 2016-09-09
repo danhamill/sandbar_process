@@ -1,0 +1,2 @@
+Site,Date,Plane_Height,Area_2D,Area_3D,Volume
+202r,19980428,minto8K(416.9),7084.19359102,7362.3120856,7042.08694183
