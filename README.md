@@ -1,4 +1,3 @@
-[logo]: https://github.com/danhamill/sandbar_process/blob/master/NAU_Logo.png "NAU Logo"
 
 # sandbar_process
 This repostiory contains all of the input files, scripts, and instructions required to compile the sandbar database
