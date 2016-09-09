@@ -12,6 +12,7 @@ Input files go in binvol_inputs organized in correct structure (see below)
 * One_Sandbar_WithOut_Bath_Text 
 * Two_Bar_With_Bath_Text
 
+### Compilation Process Overview
 1) open Sandbar_Process_Run.xlsm and hit the top button.
 
 2) Run bar_data_compile.py from bash command line. Type: "python bar_data_compile.py"
