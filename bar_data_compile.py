@@ -1,73 +1,103 @@
-# Script to read outputs from "csv_output" folder and 
-# compile all data in one csv output file
-# February 9, 2016
-# Paul Grams
-#
-# Run from bash command line one directory above csv_output directory
-#
-# Output filename:
-outFileName = 'Sandbar_data.csv'
-import glob
-import os
-import os.path
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 20 12:44:03 2016
+
+@author: dh396
+"""
+
 import pandas as pd
-# Make list of directories in current directory (should only contain folders you want to process)
-#firstList = ['CSVs','No_Bath_CSVS','Two_Bar_CSVs']
-firstList = glob.glob('csv_output/*/')
-counter3 = 0
-for i in firstList:
-    # Make list of subdirectories (these should be the site folders)
-    dirList = glob.glob(i + '/*/')
-    #print dirList
-    #os.listdir(dirList[0])
-    counter1 = 0
-    for nowFolder in dirList:
-        fileList = glob.glob(dirList[counter1]+ '*.csv')
-        counter1 = counter1 + 1
-        #print fileList
-        counter2 = 0
-        for nowFile in fileList: 
-            currentFile = fileList[counter2]
-            #print currentFile
-            counter2 = counter2 + 1
-            currentFilename = os.path.basename(currentFile)
-            #print currentFilename
-            #if currentFilename != 'Total_Eddy.csv':
-            # do not include contents of "Total" files
-            if 'Total' not in currentFilename:
-                #print currentFilename
-                print currentFile
-                counter3 = counter3 + 1
-                if 'Two_Bar' in currentFile:
-                    if 'Eddy' not in currentFile:
-                        data = pd.read_csv(currentFile, sep=',', header=0)
-                        if 'Channel' in currentFile:
-                            addSitePart = 'Channel'
-                            NewSiteNamePart = '_R' #include channel with reattachment bar
-                        elif '_R_' in currentFile:
-                            addSitePart = 'Eddy'
-                            NewSiteNamePart = '_R' #reattachment bar
-                        elif '_S_' in currentFile:
-                            addSitePart = 'Eddy'
-                            NewSiteNamePart = '_S' #separation bar
-                        data.Site = data.Site + NewSiteNamePart
-                    #
-                else:
-                    #not a two bar site
-                    data = pd.read_csv(currentFile, sep=',', header=0)
-                    if 'Channel' in currentFile:
-                        addSitePart = 'Channel'
-                    else:
-                        addSitePart = 'Eddy'
-                dataMod1 = data.assign(SitePart = addSitePart)
-                dataMod2 = dataMod1.assign(ProcessedFile = currentFilename)
-                if counter3 == 1:
-                    verticalStack = dataMod2
-                else:
-                    verticalStack = pd.concat([verticalStack, dataMod2], axis=0)
-# Sending to output csv file
-verticalStack.to_csv(outFileName) 
-print '#####'
-print 'done'
-print 'Processed ' + str(counter3) + ' files.'
-print 'output file: ' + outFileName
+import fnmatch
+import os
+
+outFileName = r'C:\workspace\Sandbar_Process\Sandbar_data.csv'
+
+#Function to search all three of the csv_output folder
+def find_files(fPattern, list_to_append):
+    for root, dirnames, filenames in os.walk(r'c:\workspace\Sandbar_Process\csv_output\CSVs'):
+        for filename in fnmatch.filter(filenames, fPattern):
+            list_to_append.append(os.path.join(root, filename))
+    for root, dirnames, filenames in os.walk(r'c:\workspace\Sandbar_Process\csv_output\No_Bath_CSVS'):
+        for filename in fnmatch.filter(filenames, fPattern):
+            list_to_append.append(os.path.join(root, filename))
+    for root, dirnames, filenames in os.walk(r'c:\workspace\Sandbar_Process\csv_output\Two_Bar_CSVS'):
+        for filename in fnmatch.filter(filenames, fPattern):
+            list_to_append.append(os.path.join(root, filename))  
+    return list_to_append
+    
+def append_whole_sites(list_to_append, channel_part):
+    for item in list_to_append:
+        if item == list_to_append[0]:
+            data = pd.read_csv(item, sep=',', header=0)
+            dataMod = data.assign(SitePart = channel_part)
+            dataMod2 = dataMod.assign(Processed_File = item.split('\\')[-1])
+            vstack = dataMod2
+        else:
+            data = pd.read_csv(item, sep=',', header=0)
+            dataMod = data.assign(SitePart = channel_part)
+            dataMod2 = dataMod.assign(Processed_File = item.split('\\')[-1])
+            vstack = pd.concat([vstack, dataMod2], axis=0)  
+    return vstack
+    
+def append_partal_sites(list_to_append, channel_part,suffix):
+    for item in list_to_append:
+        if item == list_to_append[0]:
+            data = pd.read_csv(item, sep=',', header=0)
+            data.Site = data.Site + suffix
+            dataMod = data.assign(SitePart = channel_part)
+            dataMod2 = dataMod.assign(Processed_File = item.split('\\')[-1])
+            vstack = dataMod2
+        else:
+            data = pd.read_csv(item, sep=',', header=0)
+            data.Site = data.Site + suffix
+            dataMod = data.assign(SitePart = channel_part)
+            dataMod2 = dataMod.assign(Processed_File = item.split('\\')[-1])
+            vstack = pd.concat([vstack, dataMod2], axis=0)  
+    return vstack
+    
+
+#Create lists of files to process for each bin
+chan = find_files('Channel_Low_Elevation.csv', [])
+eddy_low = find_files('Eddy_Low_Elevation_Zone.csv',[])
+eddy_fz = find_files('Eddy_Fluctuating_Zone.csv', [])
+eddy_he = find_files('Eddy_High_Elevation_Zone.csv',[])
+r_eddy_low = find_files('*_R_Low.csv', [])
+s_eddy_low = find_files('*_S_Low.csv', [])
+r_eddy_fz = find_files('*_R_Fluc.csv', [])
+s_eddy_fz = find_files('*_S_Fluc.csv', [])
+r_eddy_he = find_files('*_R_High.csv', [])
+s_eddy_he = find_files('*_S_High.csv', [])
+
+
+#Append whole sites to output file
+tmp_list = append_whole_sites(chan,'Channel')
+tmp_list.to_csv(outFileName)
+
+tmp_list = append_whole_sites(eddy_low,'Eddy')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_whole_sites(eddy_fz,'Eddy')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_whole_sites(eddy_he,'Eddy')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(s_eddy_low,'Eddy', '_s')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(s_eddy_fz,'Eddy', '_s')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(s_eddy_he,'Eddy', '_s')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(r_eddy_low,'Eddy', '_r')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(r_eddy_fz,'Eddy', '_r')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+tmp_list = append_partal_sites(r_eddy_he,'Eddy', '_r')
+tmp_list.to_csv(outFileName, mode='a', header=False)
+
+del chan, eddy_fz, eddy_he, eddy_low,r_eddy_fz,r_eddy_he,r_eddy_low,s_eddy_fz,s_eddy_he,s_eddy_low, tmp_list, outFileName
+
