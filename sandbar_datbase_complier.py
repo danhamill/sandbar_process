@@ -9,7 +9,7 @@ max_vol = Microsoft excel file contining the tabulated maximim volumes and areas
 bar_compile = Compile binvol files from the bar_data_compile.py script
 bar_trip = Lookup table contining river segments (i.e. UMC,LMC,EGC,...), and time series length (i.e. short or long term montioring site)
 trip_dates = Look up table to assoicate survey dates with trip dates
-ts_length = Worksheet to predict if the length of the tirp length.  Short=complete trip after 2002, Long=complete trip before 2002, na=partial trip.
+ts_length = Look up table for time sereis analysis
 outFileName = Specified output file name
 bar_type = Look up table to predict sand bar type (i.e. sep, reatt, undiff)
 
@@ -29,21 +29,46 @@ Segment - Canyon Section
 MaxVol - Maximum Volume
 Bar_type - Sand bar type
 Max_Area - Maximum area
-Time_Series - Complte or partial trip: Short=complete trip after 2002, Long=complete trip before 2002, na=partial trip.
+Time_Series - Complete or partial trip
+    -'long' = complete trips, can use for marble canyon and grand canyon time series.
+    -'na'= incomplete trip, exclude from time series analysis
+    -'mc' = only include in marble canyon time series
+Period - time series period
+    - 'Sediment_Deficit' = (01\01\1990 - 11\01\2003)
+    - 'Sediment Enrichment' = (11\01\2003 - present)
 
 """
 
 import pandas as pd
-
-max_vol = r'C:\workspace\Sandbar_Process\LU_Max_Vol.xlsx'
-bar_compile = r'C:\workspace\Sandbar_Process\Sandbar_data.csv'
-bar_trip = r'C:\workspace\Sandbar_Process\LU_Site_location_time_Series.csv' 
-trip_dates = r'C:\workspace\Sandbar_Process\Date_Error_lookup.xlsx'
-ts_length = r'C:\workspace\sandbar_process\LU_Time_Series.xlsx'
-outFileName = r'C:\workspace\Sandbar_Process\Merged_Sandbar_data.csv'
-bar_type = r'C:\workspace\sandbar_process\LU_Bar_type.csv'
+import platform
 
 
+def assign_period(row):
+    if row['TripDate'] > pd.to_datetime('2003-11-01'):
+        return 'Sediment_Enrichment'
+    elif row['TripDate'] < pd.to_datetime('2003-11-01'):
+        return 'Sediment_Deficit'
+    else:
+        pass
+    
+    
+if platform.system() == 'Windows':
+    max_vol = r'C:\workspace\Sandbar_Process\LU_Max_Vol.xlsx'
+    bar_compile = r'C:\workspace\Sandbar_Process\Sandbar_data.csv'
+    bar_trip = r'C:\workspace\Sandbar_Process\LU_Site_location_time_Series.csv' 
+    trip_dates = r'C:\workspace\Sandbar_Process\Date_Error_lookup.xlsx'
+    ts_length = r'C:\workspace\sandbar_process\LU_Time_Series.xlsx'
+    outFileName = r'C:\workspace\Sandbar_Process\Merged_Sandbar_data.csv'
+    bar_type = r'C:\workspace\sandbar_process\LU_Bar_type.csv'
+elif platform.system() == 'Darwin':
+    max_vol = '/Users/danielhamill/git_clones/sandbar_process/LU_Max_Vol.xlsx'
+    bar_compile = '/Users/danielhamill/git_clones/sandbar_process/Sandbar_data.csv'
+    bar_trip = '/Users/danielhamill/git_clones/sandbar_process/LU_Site_location_time_Series.csv' 
+    trip_dates = '/Users/danielhamill/git_clones/sandbar_process/Date_Error_lookup.xlsx'
+    ts_length = '/Users/danielhamill/git_clones/sandbar_process/LU_Time_Series.xlsx'
+    outFileName = '/Users/danielhamill/git_clones/sandbar_process/Merged_Sandbar_data.csv'
+    bar_type = '/Users/danielhamill/git_clones/sandbar_process/LU_Bar_type.csv'
+    
 #Load in bar compile
 data = pd.read_csv(bar_compile, sep=',')
 data = data.drop(data.columns[[0]],axis=1)
@@ -163,6 +188,7 @@ lu_4 = lu_4.rename(columns={'Trip_Date':'TripDate'})
 data = data.reset_index()
 data= data.merge(lu_4, on=['TripDate'], how='left' )
 data = data.set_index(['Site'])
+data['Period'] = data.apply(lambda row: assign_period(row), axis=1)
 
 del lu_4
 
