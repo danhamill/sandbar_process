@@ -44,6 +44,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 003l,2013-09-21,eddy8kto25k,1406.450748,1452.858834,564.4347808,56.25802992,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,1_UMC,4582.22257728,Reattachment,7603.0,long,Sediment_Enrichment
 003l,2014-09-24,eddy8kto25k,1276.230784,1316.331984,1035.578996,51.04923134,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,1_UMC,4582.22257728,Reattachment,7603.0,long,Sediment_Enrichment
 003l,2015-09-23,eddy8kto25k,1272.009199,1308.537546,1051.258451,50.88036795,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,1_UMC,4582.22257728,Reattachment,7603.0,long,Sediment_Enrichment
+003l,2016-10-01,eddy8kto25k,1385.177453,1421.598461,1232.409093,55.40709813,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,1_UMC,4582.22257728,Reattachment,7603.0,long,Sediment_Enrichment
 003l,1993-11-17,eddyminto8k,5241.649359,5420.277923,20395.10876,943.4968846,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,1_UMC,30247.8816705,Reattachment,7603.0,long,Sediment_Deficit
 003l,1994-04-07,eddyminto8k,4603.795563,4792.746919,23300.90586,828.6832014,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,1_UMC,30247.8816705,Reattachment,7603.0,long,Sediment_Deficit
 003l,1994-10-21,eddyminto8k,5080.714535,5302.166991,20769.32212,914.5286164,Eddy,Eddy_Low_Elevation_Zone.csv,1994-11-20,long,1_UMC,30247.8816705,Reattachment,7603.0,long,Sediment_Deficit
@@ -113,6 +114,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 003l,2013-09-21,eddyabove25k,115.6606752,136.2287034,28.67714756,4.626427009,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,1_UMC,275.301046712,Reattachment,7603.0,long,Sediment_Enrichment
 003l,2014-09-24,eddyabove25k,120.7763909,139.6867922,28.5554342,4.831055635,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,1_UMC,275.301046712,Reattachment,7603.0,long,Sediment_Enrichment
 003l,2015-09-23,eddyabove25k,133.9165249,152.086333,32.33643769,5.356660995,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,1_UMC,275.301046712,Reattachment,7603.0,long,Sediment_Enrichment
+003l,2016-10-01,eddyabove25k,132.4635407,151.6591695,35.75625,5.298541628,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,1_UMC,275.301046712,Reattachment,7603.0,long,Sediment_Enrichment
 008l,1990-09-28,eddy8kto25k,1270.276892,1276.687495,732.5761617,50.81107569,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Deficit
 008l,1991-07-26,eddy8kto25k,1176.582461,1182.687555,689.986702,47.06329842,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Deficit
 008l,1991-11-22,eddy8kto25k,1044.958549,1052.329241,677.9621372,41.79834196,Eddy,Eddy_Fluctuating_Zone.csv,1991-11-01,long,1_UMC,1196.97124225,Separation ,2942.0,na,Sediment_Deficit
@@ -152,6 +154,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 008l,2013-09-21,eddy8kto25k,1227.357385,1235.561947,393.9691089,49.09429541,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Enrichment
 008l,2014-09-24,eddy8kto25k,1189.645852,1202.153461,512.5579029,47.58583409,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Enrichment
 008l,2015-09-23,eddy8kto25k,737.3370519,756.0082249,267.9298625,29.49348208,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Enrichment
+008l,2016-10-01,eddy8kto25k,1314.632379,1327.898074,315.3997446,52.58529516,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,1_UMC,1196.97124225,Separation ,2942.0,long,Sediment_Enrichment
 008l,1990-09-28,eddyabove25k,1023.892397,1029.472857,551.5344835,40.95569588,Eddy,Eddy_High_Elevation_Zone.csv,1990-06-10,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Deficit
 008l,1991-07-26,eddyabove25k,1037.638032,1044.211017,537.4669342,41.5055213,Eddy,Eddy_High_Elevation_Zone.csv,1991-07-26,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Deficit
 008l,1991-11-22,eddyabove25k,1052.191604,1059.007065,530.958488,42.08766415,Eddy,Eddy_High_Elevation_Zone.csv,1991-11-01,long,1_UMC,693.511666109,Separation ,2942.0,na,Sediment_Deficit
@@ -191,6 +194,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 008l,2013-09-21,eddyabove25k,772.9907377,776.1431901,74.9021729,30.91962951,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Enrichment
 008l,2014-09-24,eddyabove25k,838.0900035,842.7344011,66.6337593,33.52360014,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Enrichment
 008l,2015-09-23,eddyabove25k,1001.613354,1009.772187,83.09620011,40.06453416,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Enrichment
+008l,2016-10-01,eddyabove25k,943.9934682,949.8313376,65.86856587,37.75973873,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,1_UMC,693.511666109,Separation ,2942.0,long,Sediment_Enrichment
 009l,2008-02-03,eddy8kto25k,3298.18501,3338.507643,1838.140164,131.9274004,Eddy,Eddy_Fluctuating_Zone.csv,2008-02-02,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2008-03-29,eddy8kto25k,2312.168819,2370.645842,3821.01846,92.48675276,Eddy,Eddy_Fluctuating_Zone.csv,2008-03-28,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2008-05-17,eddy8kto25k,2325.556183,2383.579528,3145.472419,93.02224731,Eddy,Eddy_Fluctuating_Zone.csv,2008-05-17,HFE,1_UMC,4721.8101346,Reattachment,12267.0,na,Sediment_Enrichment
@@ -202,6 +206,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 009l,2013-09-21,eddy8kto25k,2254.075659,2305.838651,1545.3746,90.16302635,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2014-09-24,eddy8kto25k,1650.372116,1711.08599,1979.228951,66.01488463,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2015-09-23,eddy8kto25k,2281.987992,2332.737893,1487.593394,91.27951967,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
+009l,2016-10-01,eddy8kto25k,2486.40876,2534.892136,1837.518756,99.45635039,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,HFE,1_UMC,4721.8101346,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2008-02-03,eddyabove25k,438.6245619,447.2749744,112.4317463,17.54498247,Eddy,Eddy_High_Elevation_Zone.csv,2008-02-02,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2008-03-29,eddyabove25k,1289.291638,1304.483962,749.9887632,51.57166553,Eddy,Eddy_High_Elevation_Zone.csv,2008-03-28,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2008-05-17,eddyabove25k,1146.96763,1159.593943,615.2052916,45.8787052,Eddy,Eddy_High_Elevation_Zone.csv,2008-05-17,HFE,1_UMC,983.310274818,Reattachment,12267.0,na,Sediment_Enrichment
@@ -213,6 +218,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 009l,2013-09-21,eddyabove25k,595.8343537,605.4809737,254.8977359,23.83337415,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2014-09-24,eddyabove25k,1101.433396,1121.558497,706.352605,44.05733582,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
 009l,2015-09-23,eddyabove25k,761.4987445,781.5329456,535.6918243,30.45994978,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
+009l,2016-10-01,eddyabove25k,720.1921953,738.0375925,472.5374248,28.80768781,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,HFE,1_UMC,983.310274818,Reattachment,12267.0,long,Sediment_Enrichment
 016l,1990-09-29,eddy8kto25k,1294.770011,1307.997141,921.853107,51.79080042,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Deficit
 016l,1991-07-27,eddy8kto25k,1191.573824,1199.050996,747.3919205,47.66295296,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Deficit
 016l,1992-10-16,eddy8kto25k,1770.194381,1777.979971,962.5955539,70.80777524,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Deficit
@@ -250,6 +256,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 016l,2013-09-22,eddy8kto25k,1416.49715,1426.072449,919.7132567,56.659886,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Enrichment
 016l,2014-09-25,eddy8kto25k,761.4586126,773.4502749,323.2559694,30.4583445,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Enrichment
 016l,2015-09-24,eddy8kto25k,987.3104639,1001.044561,708.7433525,39.49241856,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Enrichment
+016l,2016-10-02,eddy8kto25k,996.0264151,1008.63932,472.5070567,39.8410566,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,1_UMC,1463.86680581,Separation ,8154.0,long,Sediment_Enrichment
 016l,1995-04-25,eddyminto8k,6482.83117,6889.438967,11256.39723,1166.909611,Eddy,Eddy_Low_Elevation_Zone.csv,1995-04-24,long,1_UMC,26189.6470385,Separation ,8154.0,long,Sediment_Deficit
 016l,1996-02-15,eddyminto8k,6827.285836,7286.489036,14750.5371,1228.91145,Eddy,Eddy_Low_Elevation_Zone.csv,1996-02-13,long,1_UMC,26189.6470385,Separation ,8154.0,long,Sediment_Deficit
 016l,1996-04-17,eddyminto8k,6839.673942,7365.966011,12430.22314,1231.14131,Eddy,Eddy_Low_Elevation_Zone.csv,1996-04-15,long,1_UMC,26189.6470385,Separation ,8154.0,long,Sediment_Deficit
@@ -301,6 +308,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 016l,2013-09-22,eddyabove25k,192.7313871,195.8779868,57.63992868,7.709255484,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,1_UMC,139.228858644,Separation ,8154.0,long,Sediment_Enrichment
 016l,2014-09-25,eddyabove25k,168.923315,173.1941525,56.19671391,6.756932602,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,1_UMC,139.228858644,Separation ,8154.0,long,Sediment_Enrichment
 016l,2015-09-24,eddyabove25k,255.5148097,258.8953862,70.24796837,10.22059239,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,1_UMC,139.228858644,Separation ,8154.0,long,Sediment_Enrichment
+016l,2016-10-02,eddyabove25k,186.5748619,190.1862464,58.55526073,7.462994475,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,1_UMC,139.228858644,Separation ,8154.0,long,Sediment_Enrichment
 022r,1990-09-30,eddy8kto25k,1074.474004,1098.564348,791.2563108,42.97896014,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Deficit
 022r,1991-07-27,eddy8kto25k,1149.722507,1177.232511,758.0820101,45.98890027,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Deficit
 022r,1991-10-25,eddy8kto25k,1065.8496,1092.215715,460.7772975,42.63398402,Eddy,Eddy_Fluctuating_Zone.csv,1991-11-01,long,1_UMC,3931.18578139,Reattachment,7290.0,na,Sediment_Deficit
@@ -343,6 +351,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 022r,2013-09-22,eddy8kto25k,1602.249151,1640.825223,2832.19226,64.08996602,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Enrichment
 022r,2014-09-25,eddy8kto25k,1703.386941,1739.396815,3064.453938,68.13547765,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Enrichment
 022r,2015-09-24,eddy8kto25k,2311.055868,2345.349536,3229.379667,92.44223474,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Enrichment
+022r,2016-10-02,eddy8kto25k,2272.265004,2306.087065,3334.472653,90.89060018,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,1_UMC,3931.18578139,Reattachment,7290.0,long,Sediment_Enrichment
 022r,1993-04-02,eddyminto8k,5190.240304,5441.558339,7630.79105,934.2432547,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,1_UMC,16201.6110729,Reattachment,7290.0,na,Sediment_Deficit
 022r,1993-10-08,eddyminto8k,3214.088263,3338.345486,5879.950774,578.5358873,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,1_UMC,16201.6110729,Reattachment,7290.0,long,Sediment_Deficit
 022r,1994-04-09,eddyminto8k,5170.715444,5368.540125,9802.245388,930.7287799,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,1_UMC,16201.6110729,Reattachment,7290.0,long,Sediment_Deficit
@@ -407,6 +416,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 022r,2013-09-22,eddyabove25k,908.0496047,923.6314743,923.6926785,36.32198419,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,1_UMC,1285.47654259,Reattachment,7290.0,long,Sediment_Enrichment
 022r,2014-09-25,eddyabove25k,881.0908973,898.3444578,756.6414552,35.24363589,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,1_UMC,1285.47654259,Reattachment,7290.0,long,Sediment_Enrichment
 022r,2015-09-24,eddyabove25k,786.7064378,805.2538079,599.7233632,31.46825751,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,1_UMC,1285.47654259,Reattachment,7290.0,long,Sediment_Enrichment
+022r,2016-10-02,eddyabove25k,771.8486431,788.6785429,597.2903195,30.87394572,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,1_UMC,1285.47654259,Reattachment,7290.0,long,Sediment_Enrichment
 024l,2002-09-21,eddy8kto25k,2160.35817,2204.122169,1096.200077,86.41432679,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Deficit
 024l,2003-04-26,eddy8kto25k,2041.619334,2073.409962,872.6880817,81.66477335,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Deficit
 024l,2003-09-21,eddy8kto25k,2091.524923,2118.694613,872.2578168,83.66099692,Eddy,Eddy_Fluctuating_Zone.csv,2003-09-20,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Deficit
@@ -423,6 +433,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 024l,2013-09-23,eddy8kto25k,2165.3985,2191.625608,1152.513955,86.61593999,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Enrichment
 024l,2014-09-25,eddy8kto25k,1867.106096,1908.02827,701.82602,74.68424383,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Enrichment
 024l,2015-09-24,eddy8kto25k,2042.684273,2079.480335,1152.609363,81.70737092,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Enrichment
+024l,2016-10-02,eddy8kto25k,2048.813674,2083.30664,1378.119737,81.95254694,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,1_UMC,2172.33889254,Undifferentiated,3059.0,long,Sediment_Enrichment
 024l,2002-09-21,eddyabove25k,35.62420447,36.31347378,1.711213271,1.424968179,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Deficit
 024l,2003-04-26,eddyabove25k,36.16836367,36.82065801,2.698509579,1.446734547,Eddy,Eddy_High_Elevation_Zone.csv,2003-04-25,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Deficit
 024l,2003-09-21,eddyabove25k,40.73173207,41.71928258,3.006341587,1.629269283,Eddy,Eddy_High_Elevation_Zone.csv,2003-09-20,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Deficit
@@ -439,6 +450,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 024l,2013-09-23,eddyabove25k,52.58765842,53.37854621,6.37659806,2.103506337,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Enrichment
 024l,2014-09-25,eddyabove25k,200.5795471,202.2731674,25.11269262,8.023181883,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Enrichment
 024l,2015-09-24,eddyabove25k,241.8399967,244.4978198,44.79521457,9.673599866,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Enrichment
+024l,2016-10-02,eddyabove25k,257.6269954,260.6986904,50.96741327,10.30507981,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,1_UMC,12.4818479889,Undifferentiated,3059.0,long,Sediment_Enrichment
 029l,2002-05-06,eddy8kto25k,1023.409692,1056.225731,540.0988491,40.93638769,Eddy,Eddy_Fluctuating_Zone.csv,2002-04-27,short,1_UMC,2468.18063181,Undifferentiated,3348.0,na,Sediment_Deficit
 029l,2002-09-22,eddy8kto25k,1055.280053,1089.772042,496.3774529,42.21120213,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Deficit
 029l,2003-04-27,eddy8kto25k,1102.444292,1132.31409,358.9188345,44.09777166,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Deficit
@@ -456,6 +468,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 029l,2013-09-23,eddy8kto25k,1102.019375,1146.743982,642.7608163,44.08077501,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Enrichment
 029l,2014-09-26,eddy8kto25k,782.7087657,836.5509423,464.4065266,31.30835063,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Enrichment
 029l,2015-09-25,eddy8kto25k,988.5481412,1025.38742,317.9738303,39.54192565,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Enrichment
+029l,2016-10-03,eddy8kto25k,911.1426975,947.3134943,102.1570585,36.4457079,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,1_UMC,2468.18063181,Undifferentiated,3348.0,long,Sediment_Enrichment
 029l,2002-05-06,eddyabove25k,547.6758335,552.8429999,96.58830822,21.90703334,Eddy,Eddy_High_Elevation_Zone.csv,2002-04-27,short,1_UMC,441.011217928,Undifferentiated,3348.0,na,Sediment_Deficit
 029l,2002-09-22,eddyabove25k,538.0526348,543.8522739,85.12953476,21.52210539,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Deficit
 029l,2003-04-27,eddyabove25k,502.5614387,508.7118775,78.70991352,20.10245755,Eddy,Eddy_High_Elevation_Zone.csv,2003-04-25,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Deficit
@@ -473,6 +486,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 029l,2013-09-23,eddyabove25k,549.9813401,557.0852806,214.5400744,21.9992536,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Enrichment
 029l,2014-09-26,eddyabove25k,760.9186396,777.6208265,260.2439356,30.43674559,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Enrichment
 029l,2015-09-25,eddyabove25k,624.132328,641.738463,215.0516295,24.96529312,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Enrichment
+029l,2016-10-03,eddyabove25k,544.2666688,557.0032394,156.1877713,21.77066675,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,1_UMC,441.011217928,Undifferentiated,3348.0,long,Sediment_Enrichment
 030r,1990-10-14,eddy8kto25k,2995.365062,3042.828549,5177.052646,119.8146025,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Deficit
 030r,1991-07-28,eddy8kto25k,3087.721195,3135.089399,5286.391792,123.5088478,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Deficit
 030r,1992-10-17,eddy8kto25k,2580.086215,2609.638067,3699.7337,103.2034486,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Deficit
@@ -516,6 +530,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 030r,2013-09-23,eddy8kto25k,1678.604435,1731.995309,4106.658696,67.14417741,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Enrichment
 030r,2014-09-26,eddy8kto25k,1305.762936,1353.256449,2732.044532,52.23051743,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Enrichment
 030r,2015-09-25,eddy8kto25k,1982.128774,2018.88142,2174.994429,79.28515097,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Enrichment
+030r,2016-10-03,eddy8kto25k,1546.306546,1586.111213,1350.384146,61.85226183,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,1_UMC,8197.61528046,Reattachment,8620.0,long,Sediment_Enrichment
 030r,1992-10-17,eddyminto8k,855.1891903,871.1781196,2637.181835,153.9340543,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,1_UMC,16789.151651,Reattachment,8620.0,long,Sediment_Deficit
 030r,1993-04-02,eddyminto8k,4980.123742,5247.983192,10012.57597,896.4222736,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,1_UMC,16789.151651,Reattachment,8620.0,na,Sediment_Deficit
 030r,1993-10-09,eddyminto8k,5973.477481,6223.84212,6949.527877,1075.225946,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,1_UMC,16789.151651,Reattachment,8620.0,long,Sediment_Deficit
@@ -582,6 +597,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 030r,2013-09-23,eddyabove25k,1387.923749,1404.072427,866.9587343,55.51694997,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,1_UMC,2914.74775128,Reattachment,8620.0,long,Sediment_Enrichment
 030r,2014-09-26,eddyabove25k,1117.060271,1135.709671,791.7769725,44.68241084,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,1_UMC,2914.74775128,Reattachment,8620.0,long,Sediment_Enrichment
 030r,2015-09-25,eddyabove25k,807.6392671,817.0909609,335.2571417,32.30557068,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,1_UMC,2914.74775128,Reattachment,8620.0,long,Sediment_Enrichment
+030r,2016-10-03,eddyabove25k,618.399631,628.5572749,259.0955063,24.73598524,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,1_UMC,2914.74775128,Reattachment,8620.0,long,Sediment_Enrichment
 032r,1990-09-30,eddy8kto25k,1823.123343,1838.335734,1350.905221,72.92493373,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Deficit
 032r,1991-07-28,eddy8kto25k,2063.022597,2076.398257,1261.246964,82.52090388,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Deficit
 032r,1991-10-26,eddy8kto25k,1928.241528,1941.707749,1171.216726,77.12966113,Eddy,Eddy_Fluctuating_Zone.csv,1991-11-01,long,2_LMC,3108.47027479,Undifferentiated,11620.0,na,Sediment_Deficit
@@ -624,6 +640,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 032r,2013-09-23,eddy8kto25k,2698.068724,2710.63017,1091.860796,107.9227489,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Enrichment
 032r,2014-09-26,eddy8kto25k,2108.919844,2122.168608,1141.569933,84.35679374,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Enrichment
 032r,2015-09-25,eddy8kto25k,1923.248474,1939.126813,564.54332,76.92993896,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Enrichment
+032r,2016-10-03,eddy8kto25k,2031.662937,2048.092612,427.3550202,81.26651747,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,3108.47027479,Undifferentiated,11620.0,long,Sediment_Enrichment
 032r,1993-10-09,eddyminto8k,8568.68041,8800.517696,11856.93861,1542.362474,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,33781.4864851,Undifferentiated,11620.0,long,Sediment_Deficit
 032r,1994-11-21,eddyminto8k,8170.38354,8395.520892,10889.41857,1470.669037,Eddy,Eddy_Low_Elevation_Zone.csv,1994-11-20,long,2_LMC,33781.4864851,Undifferentiated,11620.0,long,Sediment_Deficit
 032r,1995-04-26,eddyminto8k,8130.036892,8495.701949,14569.85095,1463.406641,Eddy,Eddy_Low_Elevation_Zone.csv,1995-04-24,long,2_LMC,33781.4864851,Undifferentiated,11620.0,long,Sediment_Deficit
@@ -687,6 +704,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 032r,2013-09-23,eddyabove25k,719.6445271,729.8926379,81.84944992,28.78578108,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,758.603131487,Undifferentiated,11620.0,long,Sediment_Enrichment
 032r,2014-09-26,eddyabove25k,844.2163187,854.8761984,118.5986002,33.76865275,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,758.603131487,Undifferentiated,11620.0,long,Sediment_Enrichment
 032r,2015-09-25,eddyabove25k,833.3529207,844.4425063,119.4477037,33.33411683,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,758.603131487,Undifferentiated,11620.0,long,Sediment_Enrichment
+032r,2016-10-03,eddyabove25k,679.0041234,688.626198,61.07337814,27.16016494,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,758.603131487,Undifferentiated,11620.0,long,Sediment_Enrichment
 033l,1990-06-10,eddy8kto25k,776.1866765,795.2396235,595.0251034,31.04746706,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Deficit
 033l,1991-07-28,eddy8kto25k,1156.026489,1171.793268,964.7406297,46.24105956,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Deficit
 033l,2002-09-20,eddy8kto25k,976.9491059,992.6942487,629.5517311,39.07796424,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Deficit
@@ -705,6 +723,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 033l,2013-09-23,eddy8kto25k,1058.098085,1077.4302,626.996373,42.32392341,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Enrichment
 033l,2014-09-26,eddy8kto25k,584.5528372,613.253027,314.7800972,23.38211349,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Enrichment
 033l,2015-09-25,eddy8kto25k,605.6381573,638.2111941,65.40382058,24.22552629,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Enrichment
+033l,2016-10-03,eddy8kto25k,541.1889922,573.1041469,10.90559217,21.64755969,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,1229.28647234,Reattachment,4839.0,long,Sediment_Enrichment
 033l,1990-06-10,eddyabove25k,3385.260866,3402.528007,773.0330645,135.4104346,Eddy,Eddy_High_Elevation_Zone.csv,1990-06-10,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Deficit
 033l,1991-07-28,eddyabove25k,3335.258667,3351.14932,733.7999476,133.4103467,Eddy,Eddy_High_Elevation_Zone.csv,1991-07-26,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Deficit
 033l,2002-09-20,eddyabove25k,3272.956811,3286.381944,454.2314454,130.9182724,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Deficit
@@ -723,6 +742,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 033l,2013-09-23,eddyabove25k,3136.966418,3149.660209,203.2007318,125.4786567,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Enrichment
 033l,2014-09-26,eddyabove25k,3241.328118,3253.970385,221.5935159,129.6531247,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Enrichment
 033l,2015-09-25,eddyabove25k,3041.235072,3054.585111,168.790945,121.6494029,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Enrichment
+033l,2016-10-03,eddyabove25k,3138.399603,3152.329168,130.3190987,125.5359841,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,1055.74376576,Reattachment,4839.0,long,Sediment_Enrichment
 035l,1999-05-08,eddy8kto25k,1243.11,1288.02,495.2353,49.7244,Eddy,Eddy_Fluctuating_Zone.csv,1999-05-04,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Deficit
 035l,2000-03-20,eddy8kto25k,1231.785,1274.935,523.7105,49.27141,Eddy,Eddy_Fluctuating_Zone.csv,2000-03-17,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Deficit
 035l,2000-06-06,eddy8kto25k,2292.269,2343.915,1076.88,91.69078,Eddy,Eddy_Fluctuating_Zone.csv,2000-06-01,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Deficit
@@ -745,6 +765,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l,2013-09-23,eddy8kto25k,2094.719,2148.858,988.6543,83.78877,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Enrichment
 035l,2014-09-26,eddy8kto25k,2105.806,2174.407,1070.591,84.23224,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Enrichment
 035l,2015-09-25,eddy8kto25k,1331.19,1392.593,578.4032,53.2476,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Enrichment
+035l,2016-10-03,eddy8kto25k,2441.754,2503.197,692.8296,97.67015,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,4236.79407111,Total,21059.0,long,Sediment_Enrichment
 035l,1999-05-08,eddyminto8k,19136.78,19958.99,23063.48,3444.62,Eddy,Eddy_Low_Elevation_Zone.csv,1999-05-04,short,2_LMC,61639.4848193,Total,21059.0,long,Sediment_Deficit
 035l,2000-03-20,eddyminto8k,19126.36,19958.06,17105.78,3442.744,Eddy,Eddy_Low_Elevation_Zone.csv,2000-03-17,short,2_LMC,61639.4848193,Total,21059.0,long,Sediment_Deficit
 035l,2000-06-06,eddyminto8k,18061.33,18976.97,31015.7,3251.04,Eddy,Eddy_Low_Elevation_Zone.csv,2000-06-01,short,2_LMC,61639.4848193,Total,21059.0,long,Sediment_Deficit
@@ -774,6 +795,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l,2013-09-23,eddyabove25k,704.2527,718.7177,138.8372,28.17011,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,474.184082768,Total,21059.0,long,Sediment_Enrichment
 035l,2014-09-26,eddyabove25k,819.2155,833.6699,193.639,32.76862,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,474.184082768,Total,21059.0,long,Sediment_Enrichment
 035l,2015-09-25,eddyabove25k,808.1974,829.7552,214.9596,32.32789,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,474.184082768,Total,21059.0,long,Sediment_Enrichment
+035l,2016-10-03,eddyabove25k,787.6875,810.6228,207.2786,31.5075,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,474.184082768,Total,21059.0,long,Sediment_Enrichment
 035l_r,1999-05-08,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,035L_R_Fluc.csv,1999-05-04,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Deficit
 035l_r,2000-03-20,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,035L_R_Fluc.csv,2000-03-17,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Deficit
 035l_r,2000-06-06,eddy8kto25k,751.1437035,760.5094599,251.2465336,30.04574814,Eddy,035L_R_Fluc.csv,2000-06-01,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Deficit
@@ -796,6 +818,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l_r,2013-09-23,eddy8kto25k,685.6898233,690.5990742,500.8683774,27.42759293,Eddy,035L_R_Fluc.csv,2013-09-21,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Enrichment
 035l_r,2014-09-26,eddy8kto25k,746.8305737,754.0525902,471.8504151,29.87322295,Eddy,035L_R_Fluc.csv,2014-09-23,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Enrichment
 035l_r,2015-09-25,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,035L_R_Fluc.csv,2015-09-22,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Enrichment
+035l_r,2016-10-03,eddy8kto25k,966.0250406,967.9427101,126.3979647,38.64100162,Eddy,035L_R_Fluc.csv,2016-10-01,short,2_LMC,2584.77091724,Reattachment,16660.0,long,Sediment_Enrichment
 035l_r,1999-05-08,eddyminto8k,16660.24057,17331.38085,22308.33644,2998.843303,Eddy,035L_R_Low.csv,1999-05-04,short,2_LMC,58023.8435349,Reattachment,16660.0,long,Sediment_Deficit
 035l_r,2000-03-20,eddyminto8k,16660.24142,17331.98495,15734.96332,2998.843456,Eddy,035L_R_Low.csv,2000-03-17,short,2_LMC,58023.8435349,Reattachment,16660.0,long,Sediment_Deficit
 035l_r,2000-06-06,eddyminto8k,15909.09772,16699.54058,28415.22255,2863.63759,Eddy,035L_R_Low.csv,2000-06-01,short,2_LMC,58023.8435349,Reattachment,16660.0,long,Sediment_Deficit
@@ -825,6 +848,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l_r,2013-09-23,eddyabove25k,0.0,0.0,0.0,0.0,Eddy,035L_R_High.csv,2013-09-21,short,2_LMC,0.0,Reattachment,16660.0,long,Sediment_Enrichment
 035l_r,2014-09-26,eddyabove25k,0.0,0.0,0.0,0.0,Eddy,035L_R_High.csv,2014-09-23,short,2_LMC,0.0,Reattachment,16660.0,long,Sediment_Enrichment
 035l_r,2015-09-25,eddyabove25k,0.0,0.0,0.0,0.0,Eddy,035L_R_High.csv,2015-09-22,short,2_LMC,0.0,Reattachment,16660.0,long,Sediment_Enrichment
+035l_r,2016-10-03,eddyabove25k,0.0,0.0,0.0,0.0,Eddy,035L_R_High.csv,2016-10-01,short,2_LMC,0.0,Reattachment,16660.0,long,Sediment_Enrichment
 035l_s,1999-05-08,eddy8kto25k,1243.110099,1288.019631,495.2352725,49.72440394,Eddy,035L_S_Fluc.csv,1999-05-04,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Deficit
 035l_s,2000-03-20,eddy8kto25k,1231.785257,1274.935379,523.7104531,49.27141028,Eddy,035L_S_Fluc.csv,2000-03-17,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Deficit
 035l_s,2000-06-06,eddy8kto25k,1541.125757,1583.405562,825.633605,61.6450303,Eddy,035L_S_Fluc.csv,2000-06-01,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Deficit
@@ -847,6 +871,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l_s,2013-09-23,eddy8kto25k,1409.029383,1458.259388,487.7859366,56.36117531,Eddy,035L_S_Fluc.csv,2013-09-21,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Enrichment
 035l_s,2014-09-26,eddy8kto25k,1358.975418,1420.354369,598.7409683,54.35901672,Eddy,035L_S_Fluc.csv,2014-09-23,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Enrichment
 035l_s,2015-09-25,eddy8kto25k,1331.190099,1392.592773,578.4032479,53.24760394,Eddy,035L_S_Fluc.csv,2015-09-22,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Enrichment
+035l_s,2016-10-03,eddy8kto25k,1475.728728,1535.254233,566.4316366,59.02914914,Eddy,035L_S_Fluc.csv,2016-10-01,short,2_LMC,1652.02315386,Separation,4399.0,long,Sediment_Enrichment
 035l_s,1999-05-08,eddyminto8k,2476.536426,2627.612796,755.1454443,445.7765567,Eddy,035L_S_Low.csv,1999-05-04,short,2_LMC,3615.64128437,Separation,4399.0,long,Sediment_Deficit
 035l_s,2000-03-20,eddyminto8k,2466.115024,2626.07733,1370.821106,443.9007042,Eddy,035L_S_Low.csv,2000-03-17,short,2_LMC,3615.64128437,Separation,4399.0,long,Sediment_Deficit
 035l_s,2000-06-06,eddyminto8k,2152.235355,2277.431973,2600.479612,387.4023639,Eddy,035L_S_Low.csv,2000-06-01,short,2_LMC,3615.64128437,Separation,4399.0,long,Sediment_Deficit
@@ -876,6 +901,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 035l_s,2013-09-23,eddyabove25k,704.2526892,718.7176526,138.8371693,28.17010757,Eddy,035L_S_High.csv,2013-09-21,short,2_LMC,474.184082768,Separation,4399.0,long,Sediment_Enrichment
 035l_s,2014-09-26,eddyabove25k,819.2154758,833.6699413,193.6389532,32.76861903,Eddy,035L_S_High.csv,2014-09-23,short,2_LMC,474.184082768,Separation,4399.0,long,Sediment_Enrichment
 035l_s,2015-09-25,eddyabove25k,808.1973695,829.7552083,214.9595664,32.32789478,Eddy,035L_S_High.csv,2015-09-22,short,2_LMC,474.184082768,Separation,4399.0,long,Sediment_Enrichment
+035l_s,2016-10-03,eddyabove25k,787.6875181,810.6228315,207.2785961,31.50750072,Eddy,035L_S_High.csv,2016-10-01,short,2_LMC,474.184082768,Separation,4399.0,long,Sediment_Enrichment
 041r,2002-09-23,eddy8kto25k,9869.716,9999.591,1058.961,394.7886,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Deficit
 041r,2003-04-28,eddy8kto25k,9755.895,9888.064,2727.902,390.2358,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Deficit
 041r,2003-09-23,eddy8kto25k,9523.256,9659.098,2161.44,380.9302,Eddy,Eddy_Fluctuating_Zone.csv,2003-09-20,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Deficit
@@ -893,6 +919,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r,2013-09-24,eddy8kto25k,11521.51,11734.47,11236.57,460.8603,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Enrichment
 041r,2014-09-27,eddy8kto25k,11187.73,11428.57,12963.36,447.5091,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Enrichment
 041r,2015-09-26,eddy8kto25k,11233.83,11476.24,13530.76,449.3531,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Enrichment
+041r,2016-10-04,eddy8kto25k,11225.21,11468.66,14388.09,449.0086,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,19160.7228286,Total,40328.0,long,Sediment_Enrichment
 041r,2008-02-05,eddyminto8k,24485.51,25182.37,27558.58,2693.406,Eddy,Eddy_Low_Elevation_Zone.csv,2008-02-02,short,2_LMC,47224.5043116,Total,40328.0,long,Sediment_Enrichment
 041r,2008-03-31,eddyminto8k,24413.01,25049.29,21633.63,2685.431,Eddy,Eddy_Low_Elevation_Zone.csv,2008-03-28,short,2_LMC,47224.5043116,Total,40328.0,long,Sediment_Enrichment
 041r,2002-09-23,eddyabove25k,2125.251,2166.409,250.0386,85.01003,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,2_LMC,5809.96963155,Total,40328.0,long,Sediment_Deficit
@@ -912,6 +939,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r,2013-09-24,eddyabove25k,5238.093,5392.947,3098.347,209.5237,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,5809.96963155,Total,40328.0,long,Sediment_Enrichment
 041r,2014-09-27,eddyabove25k,6125.658,6305.082,3876.255,245.0263,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,5809.96963155,Total,40328.0,long,Sediment_Enrichment
 041r,2015-09-26,eddyabove25k,6305.012,6479.595,4069.064,252.2005,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,5809.96963155,Total,40328.0,long,Sediment_Enrichment
+041r,2016-10-04,eddyabove25k,6311.307,6483.027,4157.231,252.4523,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,5809.96963155,Total,40328.0,long,Sediment_Enrichment
 041r_r,2002-09-23,eddy8kto25k,6071.970637,6129.051385,496.4505158,242.8788255,Eddy,041R_R_Fluc.csv,2002-09-20,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Deficit
 041r_r,2003-04-28,eddy8kto25k,5909.565071,5969.39701,2057.760363,236.3826029,Eddy,041R_R_Fluc.csv,2003-04-25,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Deficit
 041r_r,2003-09-23,eddy8kto25k,5555.911955,5619.940866,1495.989731,222.2364782,Eddy,041R_R_Fluc.csv,2003-09-20,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Deficit
@@ -929,6 +957,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r_r,2013-09-24,eddy8kto25k,7721.528057,7840.91905,9208.494399,308.8611223,Eddy,041R_R_Fluc.csv,2013-09-21,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2014-09-27,eddy8kto25k,7810.859281,7949.229421,10895.14879,312.4343712,Eddy,041R_R_Fluc.csv,2014-09-23,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2015-09-26,eddy8kto25k,7977.027426,8108.340711,11066.27221,319.081097,Eddy,041R_R_Fluc.csv,2015-09-22,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Enrichment
+041r_r,2016-10-04,eddy8kto25k,8037.620818,8180.873246,11914.73875,321.5048327,Eddy,041R_R_Fluc.csv,2016-10-01,short,2_LMC,15277.797948,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2008-02-05,eddyminto8k,20169.34062,20651.34005,22508.46982,2218.627468,Eddy,041R_R_Low.csv,2008-02-02,short,2_LMC,40899.517414,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2008-03-31,eddyminto8k,19513.27011,19957.04773,18737.66424,2146.459712,Eddy,041R_R_Low.csv,2008-03-28,short,2_LMC,40899.517414,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2002-09-23,eddyabove25k,258.1079491,268.2265347,9.899035995,10.32431797,Eddy,041R_R_High.csv,2002-09-20,short,2_LMC,4218.94147892,Reattachment,29270.0,long,Sediment_Deficit
@@ -948,6 +977,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r_r,2013-09-24,eddyabove25k,2902.388109,3009.683116,2193.06972,116.0955244,Eddy,041R_R_High.csv,2013-09-21,short,2_LMC,4218.94147892,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2014-09-27,eddyabove25k,3620.968537,3739.386774,2543.480835,144.8387415,Eddy,041R_R_High.csv,2014-09-23,short,2_LMC,4218.94147892,Reattachment,29270.0,long,Sediment_Enrichment
 041r_r,2015-09-26,eddyabove25k,3567.474488,3685.30835,2579.211013,142.6989795,Eddy,041R_R_High.csv,2015-09-22,short,2_LMC,4218.94147892,Reattachment,29270.0,long,Sediment_Enrichment
+041r_r,2016-10-04,eddyabove25k,3585.979155,3699.105805,2599.466486,143.4391662,Eddy,041R_R_High.csv,2016-10-01,short,2_LMC,4218.94147892,Reattachment,29270.0,long,Sediment_Enrichment
 041r_s,2002-09-23,eddy8kto25k,3797.745236,3870.539797,562.5102447,151.9098094,Eddy,041R_S_Fluc.csv,2002-09-20,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Deficit
 041r_s,2003-04-28,eddy8kto25k,3846.329613,3918.666817,670.1421082,153.8531845,Eddy,041R_S_Fluc.csv,2003-04-25,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Deficit
 041r_s,2003-09-23,eddy8kto25k,3967.34427,4039.157376,665.4505067,158.6937708,Eddy,041R_S_Fluc.csv,2003-09-20,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Deficit
@@ -964,6 +994,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r_s,2013-09-24,eddy8kto25k,3799.980188,3893.549276,2028.072287,151.9992075,Eddy,041R_S_Fluc.csv,2013-09-21,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2014-09-27,eddy8kto25k,3376.868305,3479.33969,2068.214661,135.0747322,Eddy,041R_S_Fluc.csv,2014-09-23,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2015-09-26,eddy8kto25k,3256.801007,3367.89969,2464.487666,130.2720403,Eddy,041R_S_Fluc.csv,2015-09-22,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Enrichment
+041r_s,2016-10-04,eddy8kto25k,3187.593049,3287.789783,2473.346482,127.503722,Eddy,041R_S_Fluc.csv,2016-10-01,short,2_LMC,3882.9248806,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2008-02-05,eddyminto8k,4316.166177,4531.027676,5050.114978,474.7782795,Eddy,041R_S_Low.csv,2008-02-02,short,2_LMC,6324.98689755,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2008-03-31,eddyminto8k,4899.743459,5092.245818,2895.963869,538.9717805,Eddy,041R_S_Low.csv,2008-03-28,short,2_LMC,6324.98689755,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2002-09-23,eddyabove25k,1867.142754,1898.182756,240.1395337,74.68571014,Eddy,041R_S_High.csv,2002-09-20,short,2_LMC,1591.02815263,Separation,11058.0,long,Sediment_Deficit
@@ -982,6 +1013,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 041r_s,2013-09-24,eddyabove25k,2335.705222,2383.263443,905.2771868,93.42820889,Eddy,041R_S_High.csv,2013-09-21,short,2_LMC,1591.02815263,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2014-09-27,eddyabove25k,2504.689846,2565.695449,1332.774653,100.1875938,Eddy,041R_S_High.csv,2014-09-23,short,2_LMC,1591.02815263,Separation,11058.0,long,Sediment_Enrichment
 041r_s,2015-09-26,eddyabove25k,2737.537925,2794.286829,1489.852531,109.501517,Eddy,041R_S_High.csv,2015-09-22,short,2_LMC,1591.02815263,Separation,11058.0,long,Sediment_Enrichment
+041r_s,2016-10-04,eddyabove25k,2725.327662,2783.921351,1557.764902,109.0131065,Eddy,041R_S_High.csv,2016-10-01,short,2_LMC,1591.02815263,Separation,11058.0,long,Sediment_Enrichment
 043l,1990-09-28,eddy8kto25k,1954.758269,2015.759103,1339.423532,78.19033078,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Deficit
 043l,1991-07-26,eddy8kto25k,2263.515837,2321.330835,1381.594613,90.54063349,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Deficit
 043l,1991-09-26,eddy8kto25k,2112.586415,2172.003184,1406.915099,84.50345661,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,2_LMC,3735.75604557,Reattachment,8459.0,na,Sediment_Deficit
@@ -1026,6 +1058,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 043l,2013-09-24,eddy8kto25k,1507.733333,1591.466097,1174.850404,60.30933331,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Enrichment
 043l,2014-09-27,eddy8kto25k,1090.812751,1188.427037,1123.182769,43.63251005,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Enrichment
 043l,2015-09-26,eddy8kto25k,1173.630634,1273.902202,1038.507791,46.94522537,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Enrichment
+043l,2016-10-04,eddy8kto25k,1061.723979,1172.307068,979.2826695,42.46895916,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,3735.75604557,Reattachment,8459.0,long,Sediment_Enrichment
 043l,1992-10-19,eddyminto8k,4222.158569,4384.882215,4523.597208,1055.539642,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,2_LMC,12245.7383802,Reattachment,8459.0,long,Sediment_Deficit
 043l,1993-04-03,eddyminto8k,4290.561758,4469.99864,4485.540126,772.3011164,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,2_LMC,12245.7383802,Reattachment,8459.0,na,Sediment_Deficit
 043l,1993-10-10,eddyminto8k,4105.593347,4230.402128,5095.116817,739.0068025,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,12245.7383802,Reattachment,8459.0,long,Sediment_Deficit
@@ -1093,6 +1126,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 043l,2013-09-24,eddyabove25k,2620.433058,2654.629519,1226.789968,104.8173223,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,2088.00764832,Reattachment,8459.0,long,Sediment_Enrichment
 043l,2014-09-27,eddyabove25k,2706.051715,2742.0816,1323.26206,108.2420686,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,2088.00764832,Reattachment,8459.0,long,Sediment_Enrichment
 043l,2015-09-26,eddyabove25k,2695.778846,2736.854599,1350.20169,107.8311538,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,2088.00764832,Reattachment,8459.0,long,Sediment_Enrichment
+043l,2016-10-04,eddyabove25k,2708.901003,2754.528894,1382.651801,108.3560401,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,2088.00764832,Reattachment,8459.0,long,Sediment_Enrichment
 044l,1990-09-28,eddy8kto25k,2280.661,2323.53,1272.14,91.22645,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Deficit
 044l,1991-07-26,eddy8kto25k,8146.394,8241.293,5760.321,325.8557,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Deficit
 044l,1991-09-26,eddy8kto25k,2311.48,2353.09,1166.896,92.45919,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,2_LMC,12686.0432156,Total,25428.0,na,Sediment_Deficit
@@ -1134,6 +1168,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l,2013-09-24,eddy8kto25k,4297.871,4421.962,4001.144,171.9149,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Enrichment
 044l,2014-09-28,eddy8kto25k,5717.743,5853.48,6944.034,228.7097,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Enrichment
 044l,2015-09-26,eddy8kto25k,5792.73,5935.511,6911.454,231.7092,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Enrichment
+044l,2016-10-04,eddy8kto25k,4057.883,4194.7,5708.214,162.3153,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,12686.0432156,Total,25428.0,long,Sediment_Enrichment
 044l,1993-10-10,eddyminto8k,3266.252,3359.09,3458.379,587.9253,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,59402.1633777,Total,25428.0,long,Sediment_Deficit
 044l,1994-04-11,eddyminto8k,3211.87,3323.451,1750.512,578.1366,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,2_LMC,59402.1633777,Total,25428.0,long,Sediment_Deficit
 044l,1994-11-22,eddyminto8k,3277.831,3374.889,2944.334,590.0096,Eddy,Eddy_Low_Elevation_Zone.csv,1994-11-20,long,2_LMC,59402.1633777,Total,25428.0,long,Sediment_Deficit
@@ -1196,6 +1231,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l,2013-09-24,eddyabove25k,3582.108,3704.898,2856.419,143.2843,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,4357.84506009,Total,25428.0,long,Sediment_Enrichment
 044l,2014-09-28,eddyabove25k,4104.906,4231.628,3351.287,164.1962,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,4357.84506009,Total,25428.0,long,Sediment_Enrichment
 044l,2015-09-26,eddyabove25k,4553.676,4693.395,4010.467,182.147,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,4357.84506009,Total,25428.0,long,Sediment_Enrichment
+044l,2016-10-04,eddyabove25k,4379.486,4542.388,3999.303,175.1795,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,4357.84506009,Total,25428.0,long,Sediment_Enrichment
 044l_r,1990-09-28,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,044L_R_Fluc.csv,1990-06-10,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Deficit
 044l_r,1991-07-26,eddy8kto25k,5817.040782,5871.901493,4693.641878,232.6816313,Eddy,044L_R_Fluc.csv,1991-07-26,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Deficit
 044l_r,1991-09-26,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,044L_R_Fluc.csv,1991-10-01,long,2_LMC,9979.43420463,Reattachment,18266.0,na,Sediment_Deficit
@@ -1237,6 +1273,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l_r,2013-09-24,eddy8kto25k,1968.463296,2047.728769,2546.26285,78.73853185,Eddy,044L_R_Fluc.csv,2013-09-21,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Enrichment
 044l_r,2014-09-28,eddy8kto25k,3811.189481,3887.625848,5613.949768,152.4475793,Eddy,044L_R_Fluc.csv,2014-09-23,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Enrichment
 044l_r,2015-09-26,eddy8kto25k,3893.585204,3973.374874,5861.002716,155.7434081,Eddy,044L_R_Fluc.csv,2015-09-22,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Enrichment
+044l_r,2016-10-04,eddy8kto25k,2046.605881,2125.84932,4622.347691,81.86423526,Eddy,044L_R_Fluc.csv,2016-10-01,long,2_LMC,9979.43420463,Reattachment,18266.0,long,Sediment_Enrichment
 044l_r,1996-02-17,eddyminto8k,13400.19933,13775.80961,35569.37449,2412.035879,Eddy,044L_R_Low.csv,1996-02-13,long,2_LMC,53232.2030745,Reattachment,18266.0,long,Sediment_Deficit
 044l_r,1996-04-19,eddyminto8k,12844.83719,13363.86714,14716.43369,2312.070694,Eddy,044L_R_Low.csv,1996-04-15,long,2_LMC,53232.2030745,Reattachment,18266.0,long,Sediment_Deficit
 044l_r,1996-09-16,eddyminto8k,13146.10898,13650.96571,24711.89772,2366.299617,Eddy,044L_R_Low.csv,1996-09-12,long,2_LMC,53232.2030745,Reattachment,18266.0,long,Sediment_Deficit
@@ -1295,6 +1332,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l_r,2013-09-24,eddyabove25k,1667.479248,1727.205633,1789.282202,66.69916992,Eddy,044L_R_High.csv,2013-09-21,long,2_LMC,2533.72184619,Reattachment,18266.0,long,Sediment_Enrichment
 044l_r,2014-09-28,eddyabove25k,1975.404554,2032.564314,1979.772759,79.01618216,Eddy,044L_R_High.csv,2014-09-23,long,2_LMC,2533.72184619,Reattachment,18266.0,long,Sediment_Enrichment
 044l_r,2015-09-26,eddyabove25k,2499.468251,2570.463921,2581.225073,99.97873005,Eddy,044L_R_High.csv,2015-09-22,long,2_LMC,2533.72184619,Reattachment,18266.0,long,Sediment_Enrichment
+044l_r,2016-10-04,eddyabove25k,2375.197451,2466.016717,2578.396604,95.00789803,Eddy,044L_R_High.csv,2016-10-01,long,2_LMC,2533.72184619,Reattachment,18266.0,long,Sediment_Enrichment
 044l_s,1990-09-28,eddy8kto25k,2280.661288,2323.530418,1272.139685,91.22645151,Eddy,044L_S_Fluc.csv,1990-06-10,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Deficit
 044l_s,1991-07-26,eddy8kto25k,2329.352812,2369.391512,1066.678778,93.1741125,Eddy,044L_S_Fluc.csv,1991-07-26,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Deficit
 044l_s,1991-09-26,eddy8kto25k,2311.479833,2353.090174,1166.896049,92.45919333,Eddy,044L_S_Fluc.csv,1991-10-01,long,2_LMC,2706.60901093,Separation,7162.0,na,Sediment_Deficit
@@ -1336,6 +1374,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l_s,2013-09-24,eddy8kto25k,2329.408183,2374.233539,1454.880714,93.17632731,Eddy,044L_S_Fluc.csv,2013-09-21,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Enrichment
 044l_s,2014-09-28,eddy8kto25k,1906.553755,1965.854306,1330.083856,76.26215019,Eddy,044L_S_Fluc.csv,2014-09-23,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Enrichment
 044l_s,2015-09-26,eddy8kto25k,1899.144573,1962.136222,1050.451629,75.9657829,Eddy,044L_S_Fluc.csv,2015-09-22,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Enrichment
+044l_s,2016-10-04,eddy8kto25k,2011.277372,2068.850922,1085.866297,80.4510949,Eddy,044L_S_Fluc.csv,2016-10-01,long,2_LMC,2706.60901093,Separation,7162.0,long,Sediment_Enrichment
 044l_s,1993-10-10,eddyminto8k,3266.251713,3359.089864,3458.378657,587.9253083,Eddy,044L_S_Low.csv,1993-10-08,long,2_LMC,6169.96030321,Separation,7162.0,long,Sediment_Deficit
 044l_s,1994-04-11,eddyminto8k,3211.869878,3323.450917,1750.512047,578.136578,Eddy,044L_S_Low.csv,1994-04-07,long,2_LMC,6169.96030321,Separation,7162.0,long,Sediment_Deficit
 044l_s,1994-11-22,eddyminto8k,3277.831188,3374.889297,2944.333988,590.0096139,Eddy,044L_S_Low.csv,1994-11-20,long,2_LMC,6169.96030321,Separation,7162.0,long,Sediment_Deficit
@@ -1398,6 +1437,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 044l_s,2013-09-24,eddyabove25k,1914.628771,1977.692611,1067.136497,76.58515083,Eddy,044L_S_High.csv,2013-09-21,long,2_LMC,1824.1232139,Separation,7162.0,long,Sediment_Enrichment
 044l_s,2014-09-28,eddyabove25k,2129.501318,2199.063772,1371.514364,85.1800527,Eddy,044L_S_High.csv,2014-09-23,long,2_LMC,1824.1232139,Separation,7162.0,long,Sediment_Enrichment
 044l_s,2015-09-26,eddyabove25k,2054.207603,2122.930708,1429.241716,82.16830412,Eddy,044L_S_High.csv,2015-09-22,long,2_LMC,1824.1232139,Separation,7162.0,long,Sediment_Enrichment
+044l_s,2016-10-04,eddyabove25k,2004.288983,2076.370961,1420.906061,80.17155933,Eddy,044L_S_High.csv,2016-10-01,long,2_LMC,1824.1232139,Separation,7162.0,long,Sediment_Enrichment
 045l,2002-05-05,eddy8kto25k,1488.946,1526.79,782.6877,59.55785,Eddy,Eddy_Fluctuating_Zone.csv,2002-04-27,short,2_LMC,9544.27092371,Total,22540.0,na,Sediment_Deficit
 045l,2002-09-24,eddy8kto25k,1909.075,1945.643,875.069,76.363,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Deficit
 045l,2003-04-30,eddy8kto25k,2910.696,2943.922,2056.8,116.4278,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Deficit
@@ -1417,6 +1457,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l,2013-09-25,eddy8kto25k,3211.857,3279.044,4398.385,128.4743,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Enrichment
 045l,2014-09-28,eddy8kto25k,2762.963,2834.966,1097.429,110.5185,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Enrichment
 045l,2015-09-27,eddy8kto25k,4435.806,4507.48,1991.735,177.4322,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Enrichment
+045l,2016-10-02,eddy8kto25k,2905.443,2968.584,352.6143,116.2177,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,9544.27092371,Total,22540.0,long,Sediment_Enrichment
 045l,2002-05-05,eddyminto8k,14001.56,14519.44,14340.28,1540.171,Eddy,Eddy_Low_Elevation_Zone.csv,2002-04-27,short,2_LMC,35761.1090037,Total,22540.0,na,Sediment_Deficit
 045l,2004-11-18,eddyminto8k,16808.1,17509.93,23438.25,1848.891,Eddy,Eddy_Low_Elevation_Zone.csv,2004-11-13,short,2_LMC,35761.1090037,Total,22540.0,na,Sediment_Enrichment
 045l,2004-12-07,eddyminto8k,14472.03,15160.16,18483.91,1591.923,Eddy,Eddy_Low_Elevation_Zone.csv,2004-12-02,short,2_LMC,35761.1090037,Total,22540.0,mc,Sediment_Enrichment
@@ -1441,6 +1482,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l,2013-09-25,eddyabove25k,2754.61,2816.138,931.9064,110.1844,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,2427.62040977,Total,22540.0,long,Sediment_Enrichment
 045l,2014-09-28,eddyabove25k,1776.862,1842.577,619.2873,71.07448,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,2427.62040977,Total,22540.0,long,Sediment_Enrichment
 045l,2015-09-27,eddyabove25k,1559.443,1638.573,416.1889,62.37771,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,2427.62040977,Total,22540.0,long,Sediment_Enrichment
+045l,2016-10-02,eddyabove25k,1449.444,1533.084,426.7592,57.97776,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,2427.62040977,Total,22540.0,long,Sediment_Enrichment
 045l_r,2002-05-05,eddy8kto25k,1488.946345,1526.79001,782.6876595,59.5578538,Eddy,045L_R_Fluc.csv,2002-04-27,short,2_LMC,7623.53011971,Reattachment,16641.0,na,Sediment_Deficit
 045l_r,2002-09-24,eddy8kto25k,1909.074944,1945.642538,875.0689626,76.36299776,Eddy,045L_R_Fluc.csv,2002-09-20,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Deficit
 045l_r,2003-04-30,eddy8kto25k,2910.695925,2943.921893,2056.799958,116.427837,Eddy,045L_R_Fluc.csv,2003-04-25,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Deficit
@@ -1460,6 +1502,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l_r,2013-09-25,eddy8kto25k,1633.332971,1680.722026,3267.277533,65.33331885,Eddy,045L_R_Fluc.csv,2013-09-21,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Enrichment
 045l_r,2014-09-28,eddy8kto25k,1516.506577,1556.397053,552.9327686,60.6602631,Eddy,045L_R_Fluc.csv,2014-09-23,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Enrichment
 045l_r,2015-09-27,eddy8kto25k,3056.368868,3099.211781,1268.295529,122.2547547,Eddy,045L_R_Fluc.csv,2015-09-22,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Enrichment
+045l_r,2016-10-02,eddy8kto25k,1620.246956,1654.786152,49.7879116,64.80987825,Eddy,045L_R_Fluc.csv,2016-10-01,short,2_LMC,7623.53011971,Reattachment,16641.0,long,Sediment_Enrichment
 045l_r,2002-05-05,eddyminto8k,14001.55575,14519.43721,14340.27904,1540.171133,Eddy,045L_R_Low.csv,2002-04-27,short,2_LMC,27911.815619,Reattachment,16641.0,na,Sediment_Deficit
 045l_r,2004-11-18,eddyminto8k,12906.28792,13422.66608,19414.50075,1419.691671,Eddy,045L_R_Low.csv,2004-11-13,short,2_LMC,27911.815619,Reattachment,16641.0,na,Sediment_Enrichment
 045l_r,2004-12-07,eddyminto8k,10760.4397,11252.21944,16011.72491,1183.648367,Eddy,045L_R_Low.csv,2004-12-02,short,2_LMC,27911.815619,Reattachment,16641.0,mc,Sediment_Enrichment
@@ -1484,6 +1527,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l_r,2013-09-25,eddyabove25k,2008.172638,2042.285874,675.3977373,80.32690553,Eddy,045L_R_High.csv,2013-09-21,short,2_LMC,1843.47721548,Reattachment,16641.0,long,Sediment_Enrichment
 045l_r,2014-09-28,eddyabove25k,1025.746958,1058.927258,264.6441907,41.02987831,Eddy,045L_R_High.csv,2014-09-23,short,2_LMC,1843.47721548,Reattachment,16641.0,long,Sediment_Enrichment
 045l_r,2015-09-27,eddyabove25k,860.5918599,902.3614771,79.358188,34.4236744,Eddy,045L_R_High.csv,2015-09-22,short,2_LMC,1843.47721548,Reattachment,16641.0,long,Sediment_Enrichment
+045l_r,2016-10-02,eddyabove25k,853.9525555,896.4601405,74.60203467,34.15810222,Eddy,045L_R_High.csv,2016-10-01,short,2_LMC,1843.47721548,Reattachment,16641.0,long,Sediment_Enrichment
 045l_s,2002-05-05,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,045L_S_Fluc.csv,2002-04-27,short,2_LMC,1920.740804,Separation,5899.0,na,Sediment_Deficit
 045l_s,2002-09-24,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,045L_S_Fluc.csv,2002-09-20,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Deficit
 045l_s,2003-04-30,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,045L_S_Fluc.csv,2003-04-25,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Deficit
@@ -1503,6 +1547,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l_s,2013-09-25,eddy8kto25k,1578.524424,1598.322186,1131.10742,63.14097695,Eddy,045L_S_Fluc.csv,2013-09-21,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Enrichment
 045l_s,2014-09-28,eddy8kto25k,1246.456667,1278.568962,544.4961785,49.85826666,Eddy,045L_S_Fluc.csv,2014-09-23,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Enrichment
 045l_s,2015-09-27,eddy8kto25k,1379.437106,1408.267741,723.4392831,55.17748426,Eddy,045L_S_Fluc.csv,2015-09-22,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Enrichment
+045l_s,2016-10-02,eddy8kto25k,1285.19597,1313.79768,302.8263566,51.40783879,Eddy,045L_S_Fluc.csv,2016-10-01,short,2_LMC,1920.740804,Separation,5899.0,long,Sediment_Enrichment
 045l_s,2002-05-05,eddyminto8k,0.0,0.0,0.0,0.0,Eddy,045L_S_Low.csv,2002-04-27,short,2_LMC,7849.29338466,Separation,5899.0,na,Sediment_Deficit
 045l_s,2004-11-18,eddyminto8k,3901.813747,4087.259966,4023.746136,429.1995121,Eddy,045L_S_Low.csv,2004-11-13,short,2_LMC,7849.29338466,Separation,5899.0,na,Sediment_Enrichment
 045l_s,2004-12-07,eddyminto8k,3711.587102,3907.94196,2472.180943,408.2745812,Eddy,045L_S_Low.csv,2004-12-02,short,2_LMC,7849.29338466,Separation,5899.0,mc,Sediment_Enrichment
@@ -1527,6 +1572,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 045l_s,2013-09-25,eddyabove25k,746.4368929,773.8520254,256.5086361,29.85747572,Eddy,045L_S_High.csv,2013-09-21,short,2_LMC,584.143194289,Separation,5899.0,long,Sediment_Enrichment
 045l_s,2014-09-28,eddyabove25k,751.1151353,783.6492649,354.6430819,30.04460541,Eddy,045L_S_High.csv,2014-09-23,short,2_LMC,584.143194289,Separation,5899.0,long,Sediment_Enrichment
 045l_s,2015-09-27,eddyabove25k,698.8508342,736.211491,336.8307286,27.95403337,Eddy,045L_S_High.csv,2015-09-22,short,2_LMC,584.143194289,Separation,5899.0,long,Sediment_Enrichment
+045l_s,2016-10-02,eddyabove25k,595.4914376,636.6238432,352.1571192,23.8196575,Eddy,045L_S_High.csv,2016-10-01,short,2_LMC,584.143194289,Separation,5899.0,long,Sediment_Enrichment
 047r,1990-09-29,eddy8kto25k,6827.522898,6869.674598,9441.113157,273.1009159,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Deficit
 047r,1991-07-27,eddy8kto25k,6298.944789,6348.346426,8338.199483,251.9577916,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Deficit
 047r,1992-10-22,eddy8kto25k,4910.809604,4959.685006,7420.607292,196.4323841,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Deficit
@@ -1566,6 +1612,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 047r,2013-09-25,eddy8kto25k,3387.385852,3472.158585,4938.8951,135.4954341,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Enrichment
 047r,2014-09-28,eddy8kto25k,3398.558995,3491.854673,5846.227528,135.9423598,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Enrichment
 047r,2015-09-27,eddy8kto25k,2314.936441,2409.13777,4642.237851,92.59745763,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Enrichment
+047r,2016-10-05,eddy8kto25k,946.3578078,1046.296947,3134.65177,37.85431231,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,19116.4569343,Reattachment,28486.0,long,Sediment_Enrichment
 047r,1992-10-22,eddyminto8k,21952.5344,22417.61895,87197.16994,5488.1336,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,2_LMC,135191.166488,Reattachment,28486.0,long,Sediment_Deficit
 047r,1993-10-11,eddyminto8k,21884.85623,22335.06068,80102.24787,3939.274122,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,135191.166488,Reattachment,28486.0,long,Sediment_Deficit
 047r,1994-04-11,eddyminto8k,22415.744,22893.19931,76526.17779,4034.83392,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,2_LMC,135191.166488,Reattachment,28486.0,long,Sediment_Deficit
@@ -1623,6 +1670,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 047r,2013-09-25,eddyabove25k,1224.820217,1268.070749,790.9819946,48.99280866,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,2814.58231041,Reattachment,28486.0,long,Sediment_Enrichment
 047r,2014-09-28,eddyabove25k,1501.241919,1548.195602,1053.41533,60.04967674,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,2814.58231041,Reattachment,28486.0,long,Sediment_Enrichment
 047r,2015-09-27,eddyabove25k,1289.862804,1335.717793,952.1420988,51.59451216,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,2814.58231041,Reattachment,28486.0,long,Sediment_Enrichment
+047r,2016-10-05,eddyabove25k,1127.131973,1180.555036,874.209556,45.08527891,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,2814.58231041,Reattachment,28486.0,long,Sediment_Enrichment
 050r,1990-09-15,eddy8kto25k,2778.579,2835.187,3130.1,111.1432,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Deficit
 050r,1991-07-27,eddy8kto25k,2737.678,2791.968,3002.14,109.5071,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Deficit
 050r,1992-10-20,eddy8kto25k,1796.966,1870.682,1680.239,71.87865,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Deficit
@@ -1662,6 +1710,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r,2013-09-26,eddy8kto25k,2004.897,2082.257,2131.118,80.19588,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Enrichment
 050r,2014-09-28,eddy8kto25k,2142.95,2220.021,2574.559,85.718,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Enrichment
 050r,2015-09-27,eddy8kto25k,1869.069,1940.524,1485.01,74.76275,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Enrichment
+050r,2016-10-05,eddy8kto25k,2515.092,2601.564,1576.584,100.6037,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,4860.74478324,Total,9147.0,long,Sediment_Enrichment
 050r,1992-10-20,eddyminto8k,5033.618,5151.695,4352.466,906.0513,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,2_LMC,7458.11557404,Total,9147.0,long,Sediment_Deficit
 050r,1993-10-11,eddyminto8k,4632.674,4788.395,5401.396,833.8812,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,7458.11557404,Total,9147.0,long,Sediment_Deficit
 050r,1994-04-11,eddyminto8k,4709.66,4945.914,3580.866,847.7388,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,2_LMC,7458.11557404,Total,9147.0,long,Sediment_Deficit
@@ -1717,6 +1766,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r,2013-09-26,eddyabove25k,1953.254,2017.963,1345.219,78.13016,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,3179.55803188,Total,9147.0,long,Sediment_Enrichment
 050r,2014-09-28,eddyabove25k,2343.57,2424.565,1860.355,93.74282,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,3179.55803188,Total,9147.0,long,Sediment_Enrichment
 050r,2015-09-27,eddyabove25k,1987.73,2060.9,1546.351,79.5092,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,3179.55803188,Total,9147.0,long,Sediment_Enrichment
+050r,2016-10-05,eddyabove25k,1925.557,2005.715,1559.658,77.0223,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,3179.55803188,Total,9147.0,long,Sediment_Enrichment
 050r_r,1990-09-15,eddy8kto25k,1570.991521,1607.229941,2753.566811,62.83966084,Eddy,050R_R_Fluc.csv,1990-06-10,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Deficit
 050r_r,1991-07-27,eddy8kto25k,1542.26881,1576.999502,2573.32696,61.69075241,Eddy,050R_R_Fluc.csv,1991-07-26,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Deficit
 050r_r,1992-10-20,eddy8kto25k,611.9533366,665.2761121,1348.592581,24.47813346,Eddy,050R_R_Fluc.csv,1992-10-15,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Deficit
@@ -1756,6 +1806,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r_r,2013-09-26,eddy8kto25k,1146.736783,1193.800777,1353.421004,45.86947132,Eddy,050R_R_Fluc.csv,2013-09-21,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Enrichment
 050r_r,2014-09-28,eddy8kto25k,1272.806717,1316.000507,1755.040736,50.91226868,Eddy,050R_R_Fluc.csv,2014-09-23,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Enrichment
 050r_r,2015-09-27,eddy8kto25k,984.6430166,1020.007908,672.3782464,39.38572066,Eddy,050R_R_Fluc.csv,2015-09-22,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Enrichment
+050r_r,2016-10-05,eddy8kto25k,1628.442217,1676.713259,805.8401099,65.13768868,Eddy,050R_R_Fluc.csv,2016-10-01,long,2_LMC,3772.36854071,Reattachment,4928.0,long,Sediment_Enrichment
 050r_r,1992-10-20,eddyminto8k,2755.069728,2831.390268,2839.580559,495.912551,Eddy,050R_R_Low.csv,1992-10-15,long,2_LMC,5521.1153539,Reattachment,4928.0,long,Sediment_Deficit
 050r_r,1993-10-11,eddyminto8k,2383.72644,2493.730058,4235.85492,429.0707592,Eddy,050R_R_Low.csv,1993-10-08,long,2_LMC,5521.1153539,Reattachment,4928.0,long,Sediment_Deficit
 050r_r,1994-04-11,eddyminto8k,2467.722,2628.398,3254.283,444.18996,Eddy,050R_R_Low.csv,1994-04-07,long,2_LMC,5521.1153539,Reattachment,4928.0,long,Sediment_Deficit
@@ -1811,6 +1862,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r_r,2013-09-26,eddyabove25k,802.2766167,843.6388131,356.5089697,32.09106467,Eddy,050R_R_High.csv,2013-09-21,long,2_LMC,1995.16948233,Reattachment,4928.0,long,Sediment_Enrichment
 050r_r,2014-09-28,eddyabove25k,1146.866276,1197.569706,734.4178406,45.87465106,Eddy,050R_R_High.csv,2014-09-23,long,2_LMC,1995.16948233,Reattachment,4928.0,long,Sediment_Enrichment
 050r_r,2015-09-27,eddyabove25k,810.9582606,849.3811212,407.4294242,32.43833042,Eddy,050R_R_High.csv,2015-09-22,long,2_LMC,1995.16948233,Reattachment,4928.0,long,Sediment_Enrichment
+050r_r,2016-10-05,eddyabove25k,769.1024799,810.4098006,413.8913349,30.7640992,Eddy,050R_R_High.csv,2016-10-01,long,2_LMC,1995.16948233,Reattachment,4928.0,long,Sediment_Enrichment
 050r_s,1990-09-15,eddy8kto25k,1207.587417,1227.956787,376.5336594,48.30349669,Eddy,050R_S_Fluc.csv,1990-06-10,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Deficit
 050r_s,1991-07-27,eddy8kto25k,1195.409185,1214.968628,428.8129098,47.81636739,Eddy,050R_S_Fluc.csv,1991-07-26,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Deficit
 050r_s,1992-10-20,eddy8kto25k,1185.012944,1205.405931,331.6460432,47.40051774,Eddy,050R_S_Fluc.csv,1992-10-15,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Deficit
@@ -1850,6 +1902,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r_s,2013-09-26,eddy8kto25k,858.160171,888.4566364,777.6965936,34.32640684,Eddy,050R_S_Fluc.csv,2013-09-21,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Enrichment
 050r_s,2014-09-28,eddy8kto25k,870.1433427,904.0207117,819.5182114,34.80573371,Eddy,050R_S_Fluc.csv,2014-09-23,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Enrichment
 050r_s,2015-09-27,eddy8kto25k,884.4257573,920.5156407,812.6315557,35.37703029,Eddy,050R_S_Fluc.csv,2015-09-22,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Enrichment
+050r_s,2016-10-05,eddy8kto25k,886.6502477,924.8502634,770.7436023,35.46600991,Eddy,050R_S_Fluc.csv,2016-10-01,long,2_LMC,1088.37624253,Separation,4219.0,long,Sediment_Enrichment
 050r_s,1992-10-20,eddyminto8k,2278.548648,2320.304783,1512.88539,410.1387567,Eddy,050R_S_Low.csv,1992-10-15,long,2_LMC,1937.00022014,Separation,4219.0,long,Sediment_Deficit
 050r_s,1993-10-11,eddyminto8k,2248.947154,2294.66523,1165.541532,404.8104877,Eddy,050R_S_Low.csv,1993-10-08,long,2_LMC,1937.00022014,Separation,4219.0,long,Sediment_Deficit
 050r_s,1994-04-11,eddyminto8k,2241.938,2317.516,326.5825,403.54884,Eddy,050R_S_Low.csv,1994-04-07,long,2_LMC,1937.00022014,Separation,4219.0,long,Sediment_Deficit
@@ -1905,6 +1958,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 050r_s,2013-09-26,eddyabove25k,1150.977413,1174.323842,988.71049,46.03909653,Eddy,050R_S_High.csv,2013-09-21,long,2_LMC,1184.38854956,Separation,4219.0,long,Sediment_Enrichment
 050r_s,2014-09-28,eddyabove25k,1196.704217,1226.995213,1125.937205,47.86816867,Eddy,050R_S_High.csv,2014-09-23,long,2_LMC,1184.38854956,Separation,4219.0,long,Sediment_Enrichment
 050r_s,2015-09-27,eddyabove25k,1176.771849,1211.51887,1138.921531,47.07087396,Eddy,050R_S_High.csv,2015-09-22,long,2_LMC,1184.38854956,Separation,4219.0,long,Sediment_Enrichment
+050r_s,2016-10-05,eddyabove25k,1156.454897,1195.304752,1145.767039,46.25819587,Eddy,050R_S_High.csv,2016-10-01,long,2_LMC,1184.38854956,Separation,4219.0,long,Sediment_Enrichment
 051l,1990-09-30,eddy8kto25k,9507.806759,9565.466445,7441.617666,380.3122704,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Deficit
 051l,1991-07-28,eddy8kto25k,8164.539739,8240.219103,6221.279274,326.5815896,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Deficit
 051l,1991-09-27,eddy8kto25k,7844.452009,7917.488802,7283.038835,313.7780804,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,2_LMC,10891.0579986,Reattachment,31687.0,na,Sediment_Deficit
@@ -1946,6 +2000,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 051l,2013-09-26,eddy8kto25k,3467.922137,3633.448062,2768.484529,138.7168855,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Enrichment
 051l,2014-09-29,eddy8kto25k,4178.765352,4367.595554,6741.338821,167.1506141,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Enrichment
 051l,2015-09-28,eddy8kto25k,3219.549631,3359.238764,4740.092103,128.7819852,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Enrichment
+051l,2016-10-06,eddy8kto25k,3807.858663,3971.098234,4721.474462,152.3143465,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,2_LMC,10891.0579986,Reattachment,31687.0,long,Sediment_Enrichment
 051l,1992-10-21,eddyminto8k,19388.79544,19975.49198,50922.74757,4847.19886,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,2_LMC,89339.3314491,Reattachment,31687.0,long,Sediment_Deficit
 051l,1993-10-12,eddyminto8k,20539.07041,21114.44879,49646.5659,3697.032674,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,2_LMC,89339.3314491,Reattachment,31687.0,long,Sediment_Deficit
 051l,1994-04-12,eddyminto8k,19974.62056,20605.98575,54276.50212,3595.431701,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,2_LMC,89339.3314491,Reattachment,31687.0,long,Sediment_Deficit
@@ -2006,6 +2061,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 051l,2013-09-26,eddyabove25k,6019.602293,6101.813286,4405.011578,240.7840917,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,2_LMC,6101.42955154,Reattachment,31687.0,long,Sediment_Enrichment
 051l,2014-09-29,eddyabove25k,7090.802206,7177.27036,4934.167187,283.6320882,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,2_LMC,6101.42955154,Reattachment,31687.0,long,Sediment_Enrichment
 051l,2015-09-28,eddyabove25k,7061.278645,7149.434594,5232.638303,282.4511458,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,2_LMC,6101.42955154,Reattachment,31687.0,long,Sediment_Enrichment
+051l,2016-10-06,eddyabove25k,6998.185565,7091.306456,5166.825049,279.9274226,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,2_LMC,6101.42955154,Reattachment,31687.0,long,Sediment_Enrichment
 055r,1991-09-27,eddy8kto25k,10718.77213,10758.89425,2934.822119,428.750885,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,short,2_LMC,9442.36044061,Reattachment,24984.0,na,Sediment_Deficit
 055r,1996-02-20,eddy8kto25k,11082.7507,11152.70049,3212.396744,443.3100279,Eddy,Eddy_Fluctuating_Zone.csv,1996-02-13,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Deficit
 055r,1996-04-20,eddy8kto25k,4166.029743,4277.361888,4643.473839,166.6411897,Eddy,Eddy_Fluctuating_Zone.csv,1996-04-15,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Deficit
@@ -2041,6 +2097,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 055r,2013-09-26,eddy8kto25k,3651.966332,3756.322549,5250.474027,146.0786533,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Enrichment
 055r,2014-09-29,eddy8kto25k,3471.324729,3603.219454,5390.605772,138.8529892,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Enrichment
 055r,2015-09-28,eddy8kto25k,3767.791092,3905.555613,5672.408078,150.7116437,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Enrichment
+055r,2016-10-06,eddy8kto25k,5294.238722,5413.753442,6527.669732,211.7695489,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,9442.36044061,Reattachment,24984.0,long,Sediment_Enrichment
 055r,1996-02-20,eddyminto8k,12824.87075,13237.77104,42312.10166,2308.476735,Eddy,Eddy_Low_Elevation_Zone.csv,1996-02-13,short,2_LMC,65223.8686722,Reattachment,24984.0,long,Sediment_Deficit
 055r,1996-04-20,eddyminto8k,14679.55474,15373.35886,13424.07128,2642.319852,Eddy,Eddy_Low_Elevation_Zone.csv,1996-04-15,short,2_LMC,65223.8686722,Reattachment,24984.0,long,Sediment_Deficit
 055r,1996-09-18,eddyminto8k,15255.91235,15853.29659,22104.67808,2746.064224,Eddy,Eddy_Low_Elevation_Zone.csv,1996-09-12,short,2_LMC,65223.8686722,Reattachment,24984.0,long,Sediment_Deficit
@@ -2093,6 +2150,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 055r,2013-09-26,eddyabove25k,6716.020144,6775.921699,3948.876992,268.6408058,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,5016.95441959,Reattachment,24984.0,long,Sediment_Enrichment
 055r,2014-09-29,eddyabove25k,7004.926451,7074.628028,4256.048086,280.197058,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,5016.95441959,Reattachment,24984.0,long,Sediment_Enrichment
 055r,2015-09-28,eddyabove25k,7184.719114,7260.897954,4350.930903,287.3887646,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,5016.95441959,Reattachment,24984.0,long,Sediment_Enrichment
+055r,2016-10-06,eddyabove25k,7189.16747,7268.096776,4336.696604,287.5666988,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,5016.95441959,Reattachment,24984.0,long,Sediment_Enrichment
 056r,2002-09-25,eddy8kto25k,1981.227787,2002.765933,781.9507567,79.24911149,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Deficit
 056r,2003-05-01,eddy8kto25k,2733.158094,2752.994398,979.2376837,109.3263238,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Deficit
 056r,2003-09-25,eddy8kto25k,2744.771557,2763.923439,1101.124089,109.7908623,Eddy,Eddy_Fluctuating_Zone.csv,2003-09-20,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Deficit
@@ -2110,6 +2168,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 056r,2013-09-26,eddy8kto25k,1413.853844,1441.70535,1351.64592,56.55415376,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Enrichment
 056r,2014-09-29,eddy8kto25k,1361.195458,1392.382778,1690.29826,54.44781833,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Enrichment
 056r,2015-09-28,eddy8kto25k,1721.78532,1750.179278,1946.210766,68.8714128,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Enrichment
+056r,2016-10-06,eddy8kto25k,1088.572574,1126.378297,1462.945708,43.54290297,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,2_LMC,2633.00838255,Undifferentiated,5812.0,long,Sediment_Enrichment
 056r,2002-09-25,eddyabove25k,1598.270137,1609.976341,179.7721381,63.9308055,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Deficit
 056r,2003-05-01,eddyabove25k,1608.723172,1620.398151,221.4625857,64.34892686,Eddy,Eddy_High_Elevation_Zone.csv,2003-04-25,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Deficit
 056r,2003-09-25,eddyabove25k,1560.847284,1572.041821,161.602565,62.43389135,Eddy,Eddy_High_Elevation_Zone.csv,2003-09-20,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Deficit
@@ -2127,6 +2186,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 056r,2013-09-26,eddyabove25k,2248.778294,2259.475287,554.5268737,89.95113178,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Enrichment
 056r,2014-09-29,eddyabove25k,2477.6959,2491.665801,787.7522657,99.10783601,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Enrichment
 056r,2015-09-28,eddyabove25k,2572.793479,2590.739374,871.74114,102.9117392,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Enrichment
+056r,2016-10-06,eddyabove25k,2418.184912,2432.158437,842.7576526,96.72739646,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,2_LMC,1098.43645902,Undifferentiated,5812.0,long,Sediment_Enrichment
 062r,1993-04-03,eddy8kto25k,3435.204024,3549.269978,11852.69884,137.408161,Eddy,Eddy_Fluctuating_Zone.csv,1993-04-01,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,na,Sediment_Deficit
 062r,1993-10-13,eddy8kto25k,757.0998555,795.2337579,401.1870094,30.28399422,Eddy,Eddy_Fluctuating_Zone.csv,1993-10-08,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Deficit
 062r,1994-04-13,eddy8kto25k,584.5074276,634.8075832,244.2141594,23.38029711,Eddy,Eddy_Fluctuating_Zone.csv,1994-04-07,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Deficit
@@ -2160,6 +2220,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 062r,2013-09-27,eddy8kto25k,858.6575879,895.8268521,391.1676114,34.34630352,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Enrichment
 062r,2014-09-30,eddy8kto25k,771.476924,810.6477058,426.0811756,30.85907696,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Enrichment
 062r,2015-09-29,eddy8kto25k,729.2435132,771.795213,358.5796574,29.16974053,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Enrichment
+062r,2016-10-07,eddy8kto25k,824.1834601,860.2945546,413.6952014,32.9673384,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,1993-current,3_EGC,11921.1112456,Reattachment,15946.0,long,Sediment_Enrichment
 062r,1993-04-03,eddyminto8k,8252.475477,8358.145923,55404.74,1485.445586,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,1993-current,3_EGC,104402.934645,Reattachment,15946.0,na,Sediment_Deficit
 062r,1993-10-13,eddyminto8k,14569.66749,14879.71288,57172.72388,2622.540149,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,1993-current,3_EGC,104402.934645,Reattachment,15946.0,long,Sediment_Deficit
 062r,1994-04-13,eddyminto8k,14934.42876,15289.70368,47831.80084,2688.197177,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,1993-current,3_EGC,104402.934645,Reattachment,15946.0,long,Sediment_Deficit
@@ -2211,6 +2272,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 062r,2013-09-27,eddyabove25k,333.2327856,347.8286489,137.9471936,13.32931142,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,1993-current,3_EGC,1424.2519779,Reattachment,15946.0,long,Sediment_Enrichment
 062r,2014-09-30,eddyabove25k,381.8350533,395.2245872,168.2087932,15.27340213,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,1993-current,3_EGC,1424.2519779,Reattachment,15946.0,long,Sediment_Enrichment
 062r,2015-09-29,eddyabove25k,365.322351,380.850661,177.0201856,14.61289404,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,1993-current,3_EGC,1424.2519779,Reattachment,15946.0,long,Sediment_Enrichment
+062r,2016-10-07,eddyabove25k,346.5422406,360.0595005,143.9997055,13.86168962,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,1993-current,3_EGC,1424.2519779,Reattachment,15946.0,long,Sediment_Enrichment
 063l,1996-03-25,eddy8kto25k,6326.443,6391.566,5792.623,253.0577,Eddy,Eddy_Fluctuating_Zone.csv,1996-02-13,1996-2008,3_EGC,16023.3512646,Total,27853.0,long,Sediment_Deficit
 063l,1996-04-06,eddy8kto25k,2213.884,2394.712,9149.465,88.55534,Eddy,Eddy_Fluctuating_Zone.csv,1996-04-15,1996-2008,3_EGC,16023.3512646,Total,27853.0,long,Sediment_Deficit
 063l,2000-08-24,eddy8kto25k,2463.641,2559.551,1019.879,98.54563,Eddy,Eddy_Fluctuating_Zone.csv,2000-08-19,1996-2008,3_EGC,16023.3512646,Total,27853.0,mc,Sediment_Deficit
@@ -2327,6 +2389,8 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r,2013-09-27,eddy8kto25k,2098.659,2152.158,1335.405,83.94635,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,3_EGC,11297.9528683,Total,16220.0,long,Sediment_Enrichment
 065r,2014-09-30,eddy8kto25k,1362.655,1420.987,1010.384,54.50618,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,3_EGC,11297.9528683,Total,16220.0,long,Sediment_Enrichment
 065r,2015-09-29,eddy8kto25k,2278.972,2331.873,713.5323,91.15888,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,3_EGC,11297.9528683,Total,16220.0,long,Sediment_Enrichment
+065r,2016-10-07,eddy8kto25k,1389.227,1421.46,429.6918,55.5691,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,3_EGC,11297.9528683,Total,16220.0,long,Sediment_Enrichment
+065r,2016-10-07,eddy8kto25k,1389.227,1421.46,429.6918,55.5691,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,3_EGC,11297.9528683,Total,16220.0,long,Sediment_Enrichment
 065r,1996-03-27,eddyminto8k,11131.17,11546.29,20928.97,2003.611,Eddy,Eddy_Low_Elevation_Zone.csv,1996-02-13,short,3_EGC,39431.9701422,Total,16220.0,long,Sediment_Deficit
 065r,1996-04-06,eddyminto8k,11372.37,11699.41,14322.63,2047.027,Eddy,Eddy_Low_Elevation_Zone.csv,1996-04-15,short,3_EGC,39431.9701422,Total,16220.0,long,Sediment_Deficit
 065r,1997-04-26,eddyminto8k,6959.73,7374.201,26502.72,1252.751,Eddy,Eddy_Low_Elevation_Zone.csv,1997-04-20,short,3_EGC,39431.9701422,Total,16220.0,long,Sediment_Deficit
@@ -2374,6 +2438,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r,2013-09-27,eddyabove25k,819.7022,845.4375,224.5171,32.78809,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,3_EGC,2798.96919226,Total,16220.0,long,Sediment_Enrichment
 065r,2014-09-30,eddyabove25k,898.3067,929.4871,374.6815,35.93227,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,3_EGC,2798.96919226,Total,16220.0,long,Sediment_Enrichment
 065r,2015-09-29,eddyabove25k,662.3631,695.9703,271.0898,26.49452,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,3_EGC,2798.96919226,Total,16220.0,long,Sediment_Enrichment
+065r,2016-10-07,eddyabove25k,504.6124,529.8695,155.4938,20.1845,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,3_EGC,2798.96919226,Total,16220.0,long,Sediment_Enrichment
 065r_r,1996-03-27,eddy8kto25k,3186.319893,3214.418159,1554.284169,127.4527957,Eddy,065R_R_Fluc.csv,1996-02-13,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Deficit
 065r_r,1996-04-06,eddy8kto25k,1900.886619,1925.824055,2542.930748,76.03546478,Eddy,065R_R_Fluc.csv,1996-04-15,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Deficit
 065r_r,1997-04-26,eddy8kto25k,7353.511879,7405.154419,6703.25967,294.1404752,Eddy,065R_R_Fluc.csv,1997-04-20,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Deficit
@@ -2406,6 +2471,8 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r_r,2013-09-27,eddy8kto25k,1072.061751,1097.700339,1127.990807,42.88247006,Eddy,065R_R_Fluc.csv,2013-09-21,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Enrichment
 065r_r,2014-09-30,eddy8kto25k,456.7886025,482.7155548,861.6139393,18.2715441,Eddy,065R_R_Fluc.csv,2014-09-23,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Enrichment
 065r_r,2015-09-29,eddy8kto25k,1232.868712,1258.200492,540.3863399,49.31474848,Eddy,065R_R_Fluc.csv,2015-09-22,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Enrichment
+065r_r,2016-10-07,eddy8kto25k,227.4165991,236.4551315,95.41423835,9.096663964,Eddy,065R_R_Fluc.csv,2016-10-01,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Enrichment
+065r_r,2016-10-07,eddy8kto25k,227.4165991,236.4551315,95.41423835,9.096663964,Eddy,065R_R_Fluc.csv,2016-10-01,short,3_EGC,9004.52476755,Reattachment,12986.0,long,Sediment_Enrichment
 065r_r,1996-03-27,eddyminto8k,9649.206603,10027.98786,18868.30577,1736.857188,Eddy,065R_R_Low.csv,1996-02-13,short,3_EGC,35791.1072513,Reattachment,12986.0,long,Sediment_Deficit
 065r_r,1996-04-06,eddyminto8k,10246.24073,10543.89282,12141.19133,1844.323331,Eddy,065R_R_Low.csv,1996-04-15,short,3_EGC,35791.1072513,Reattachment,12986.0,long,Sediment_Deficit
 065r_r,1997-04-26,eddyminto8k,5214.837508,5579.93375,25373.54099,938.6707514,Eddy,065R_R_Low.csv,1997-04-20,short,3_EGC,35791.1072513,Reattachment,12986.0,long,Sediment_Deficit
@@ -2453,6 +2520,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r_r,2013-09-27,eddyabove25k,392.7030816,396.55514,105.9718402,15.70812326,Eddy,065R_R_High.csv,2013-09-21,short,3_EGC,2340.62424048,Reattachment,12986.0,long,Sediment_Enrichment
 065r_r,2014-09-30,eddyabove25k,412.6947904,424.4802877,257.5856179,16.50779161,Eddy,065R_R_High.csv,2014-09-23,short,3_EGC,2340.62424048,Reattachment,12986.0,long,Sediment_Enrichment
 065r_r,2015-09-29,eddyabove25k,219.9665712,234.6776961,163.7990462,8.798662848,Eddy,065R_R_High.csv,2015-09-22,short,3_EGC,2340.62424048,Reattachment,12986.0,long,Sediment_Enrichment
+065r_r,2016-10-07,eddyabove25k,54.66498129,61.15337838,44.23430138,2.186599252,Eddy,065R_R_High.csv,2016-10-01,short,3_EGC,2340.62424048,Reattachment,12986.0,long,Sediment_Enrichment
 065r_s,1996-03-27,eddy8kto25k,1319.547052,1339.554307,551.7316241,52.78188208,Eddy,065R_S_Fluc.csv,1996-02-13,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Deficit
 065r_s,1996-04-06,eddy8kto25k,1350.83804,1377.471651,1555.528733,54.03352162,Eddy,065R_S_Fluc.csv,1996-04-15,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Deficit
 065r_s,1997-04-26,eddy8kto25k,854.6317177,883.6771252,644.6883207,34.18526871,Eddy,065R_S_Fluc.csv,1997-04-20,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Deficit
@@ -2485,6 +2553,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r_s,2013-09-27,eddy8kto25k,1026.597,1054.457719,207.414601,41.06387999,Eddy,065R_S_Fluc.csv,2013-09-21,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Enrichment
 065r_s,2014-09-30,eddy8kto25k,905.8659984,938.2713351,148.7703187,36.23463994,Eddy,065R_S_Fluc.csv,2014-09-23,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Enrichment
 065r_s,2015-09-29,eddy8kto25k,1046.103206,1073.672588,173.1459417,41.84412826,Eddy,065R_S_Fluc.csv,2015-09-22,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Enrichment
+065r_s,2016-10-07,eddy8kto25k,1161.810796,1185.004457,334.277587,46.47243185,Eddy,065R_S_Fluc.csv,2016-10-01,short,3_EGC,2293.42810078,Separation,3234.0,long,Sediment_Enrichment
 065r_s,1996-03-27,eddyminto8k,1481.963672,1518.302886,2060.664392,266.753461,Eddy,065R_S_Low.csv,1996-02-13,short,3_EGC,3640.86289088,Separation,3234.0,long,Sediment_Deficit
 065r_s,1996-04-06,eddyminto8k,1126.129325,1155.520579,2181.439151,202.7032785,Eddy,065R_S_Low.csv,1996-04-15,short,3_EGC,3640.86289088,Separation,3234.0,long,Sediment_Deficit
 065r_s,1997-04-26,eddyminto8k,1744.892773,1794.267745,1129.182631,314.0806992,Eddy,065R_S_Low.csv,1997-04-20,short,3_EGC,3640.86289088,Separation,3234.0,long,Sediment_Deficit
@@ -2532,6 +2601,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 065r_s,2013-09-27,eddyabove25k,426.9990935,448.88232,118.5452415,17.07996374,Eddy,065R_S_High.csv,2013-09-21,short,3_EGC,458.344951783,Separation,3234.0,long,Sediment_Enrichment
 065r_s,2014-09-30,eddyabove25k,485.6118751,505.0068257,117.0958714,19.424475,Eddy,065R_S_High.csv,2014-09-23,short,3_EGC,458.344951783,Separation,3234.0,long,Sediment_Enrichment
 065r_s,2015-09-29,eddyabove25k,442.3965449,461.2925833,107.2907153,17.6958618,Eddy,065R_S_High.csv,2015-09-22,short,3_EGC,458.344951783,Separation,3234.0,long,Sediment_Enrichment
+065r_s,2016-10-07,eddyabove25k,449.9474553,468.7161042,111.259547,17.99789821,Eddy,065R_S_High.csv,2016-10-01,short,3_EGC,458.344951783,Separation,3234.0,long,Sediment_Enrichment
 068r,1990-07-15,eddy8kto25k,3721.295168,3752.715138,661.3761198,148.8518067,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Deficit
 068r,1991-07-29,eddy8kto25k,3674.159962,3714.445131,1261.840224,146.9663985,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Deficit
 068r,1991-10-29,eddy8kto25k,3251.709032,3286.159782,1052.970838,130.0683613,Eddy,Eddy_Fluctuating_Zone.csv,1991-11-01,long,3_EGC,5953.48150912,Undifferentiated,15119.0,na,Sediment_Deficit
@@ -2572,6 +2642,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 068r,2013-09-28,eddy8kto25k,1739.449138,1810.443065,3759.298369,69.57796553,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Enrichment
 068r,2014-10-01,eddy8kto25k,1628.063911,1730.422836,3591.267276,65.12255644,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Enrichment
 068r,2015-09-30,eddy8kto25k,1417.034712,1527.185842,3502.200496,56.68138847,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Enrichment
+068r,2016-10-08,eddy8kto25k,1515.166292,1623.371624,3421.925083,60.60665167,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,3_EGC,5953.48150912,Undifferentiated,15119.0,long,Sediment_Enrichment
 068r,1992-10-22,eddyminto8k,11267.61591,11483.87889,11808.14565,2816.903979,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,3_EGC,30439.5328473,Undifferentiated,15119.0,long,Sediment_Deficit
 068r,1993-10-13,eddyminto8k,9356.614436,9497.625995,25039.14565,1684.190598,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,3_EGC,30439.5328473,Undifferentiated,15119.0,long,Sediment_Deficit
 068r,1994-04-14,eddyminto8k,9923.809173,10077.63612,22702.57469,1786.285651,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,3_EGC,30439.5328473,Undifferentiated,15119.0,long,Sediment_Deficit
@@ -2630,6 +2701,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 068r,2013-09-28,eddyabove25k,3271.986374,3346.576988,2430.499953,130.879455,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,3_EGC,3043.25009936,Undifferentiated,15119.0,long,Sediment_Enrichment
 068r,2014-10-01,eddyabove25k,3284.431808,3364.748161,2517.370275,131.3772723,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,3_EGC,3043.25009936,Undifferentiated,15119.0,long,Sediment_Enrichment
 068r,2015-09-30,eddyabove25k,3316.621677,3407.64308,2600.224931,132.6648671,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,3_EGC,3043.25009936,Undifferentiated,15119.0,long,Sediment_Enrichment
+068r,2016-10-08,eddyabove25k,3289.127286,3382.898852,2556.281489,131.5650914,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,3_EGC,3043.25009936,Undifferentiated,15119.0,long,Sediment_Enrichment
 070r,2008-02-10,eddy8kto25k,513.0741226,521.9116202,73.43228751,20.52296491,Eddy,Eddy_Fluctuating_Zone.csv,2008-02-02,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2008-04-05,eddy8kto25k,1314.290426,1338.725365,1750.575594,52.57161704,Eddy,Eddy_Fluctuating_Zone.csv,2008-03-28,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2008-10-18,eddy8kto25k,1440.588483,1458.959415,822.7900304,57.6235393,Eddy,Eddy_Fluctuating_Zone.csv,2008-10-10,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
@@ -2638,6 +2710,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 070r,2013-09-28,eddy8kto25k,1234.484605,1244.309177,667.5410341,49.37938418,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2014-10-01,eddy8kto25k,939.5984348,950.2251119,281.7687477,37.58393739,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2015-09-30,eddy8kto25k,1379.371715,1392.236374,120.0667198,55.17486859,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
+070r,2016-10-08,eddy8kto25k,1301.616883,1313.672417,119.326015,52.0646753,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,HFE,3_EGC,1972.21399287,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2008-02-10,eddyabove25k,779.0145034,790.9126668,99.15353126,31.16058014,Eddy,Eddy_High_Elevation_Zone.csv,2008-02-02,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2008-04-05,eddyabove25k,1587.493658,1600.068143,393.9043559,63.49974633,Eddy,Eddy_High_Elevation_Zone.csv,2008-03-28,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2008-10-18,eddyabove25k,1166.850891,1200.411428,566.0281664,46.67403565,Eddy,Eddy_High_Elevation_Zone.csv,2008-10-10,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
@@ -2646,6 +2719,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 070r,2013-09-28,eddyabove25k,991.6621173,1012.846568,548.1055519,39.66648469,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2014-10-01,eddyabove25k,895.6542193,913.1219772,586.637826,35.82616877,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
 070r,2015-09-30,eddyabove25k,815.9990529,836.678986,563.63348,32.63996212,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
+070r,2016-10-08,eddyabove25k,748.3504473,770.463922,512.2670954,29.93401789,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,HFE,3_EGC,1337.35872754,Undifferentiated,4660.0,long,Sediment_Enrichment
 081l,1990-10-01,eddy8kto25k,662.2944031,695.9857676,975.1451349,26.49177612,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Deficit
 081l,1991-07-29,eddy8kto25k,714.7964912,747.8158001,1069.100638,28.59185965,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Deficit
 081l,1991-10-01,eddy8kto25k,523.8823727,564.7143281,749.5749458,20.95529491,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,3_EGC,1255.66805507,Undifferentiated,3434.0,na,Sediment_Deficit
@@ -2687,6 +2761,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 081l,2013-09-29,eddy8kto25k,673.9651821,710.2578304,447.390736,26.95860728,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Enrichment
 081l,2014-10-02,eddy8kto25k,617.3416314,662.80714,474.8110964,24.69366526,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Enrichment
 081l,2015-10-01,eddy8kto25k,595.010863,639.5996851,512.4039385,23.80043452,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Enrichment
+081l,2016-10-09,eddy8kto25k,628.7117029,672.2419072,411.3703392,25.14846812,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,3_EGC,1255.66805507,Undifferentiated,3434.0,long,Sediment_Enrichment
 081l,1993-10-15,eddyminto8k,856.9164205,874.1948628,544.3346153,154.2449557,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,3_EGC,993.255229623,Undifferentiated,3434.0,long,Sediment_Deficit
 081l,1994-04-15,eddyminto8k,1229.780455,1257.993788,625.2130145,221.3604819,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,3_EGC,993.255229623,Undifferentiated,3434.0,long,Sediment_Deficit
 081l,1994-11-26,eddyminto8k,1144.65341,1166.924543,479.2872606,206.0376138,Eddy,Eddy_Low_Elevation_Zone.csv,1994-11-20,long,3_EGC,993.255229623,Undifferentiated,3434.0,long,Sediment_Deficit
@@ -2744,6 +2819,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 081l,2013-09-29,eddyabove25k,1332.515929,1348.696266,305.2958523,53.30063718,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,3_EGC,2016.4536493,Undifferentiated,3434.0,long,Sediment_Enrichment
 081l,2014-10-02,eddyabove25k,1418.594228,1438.312074,404.9552812,56.74376914,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,3_EGC,2016.4536493,Undifferentiated,3434.0,long,Sediment_Enrichment
 081l,2015-10-01,eddyabove25k,1506.836006,1526.069218,441.9451092,60.27344023,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,3_EGC,2016.4536493,Undifferentiated,3434.0,long,Sediment_Enrichment
+081l,2016-10-09,eddyabove25k,1418.05616,1436.394286,339.2521955,56.7222464,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,3_EGC,2016.4536493,Undifferentiated,3434.0,long,Sediment_Enrichment
 084r,2002-09-28,eddy8kto25k,824.2080396,841.1391948,123.2222768,32.96832158,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Deficit
 084r,2003-05-03,eddy8kto25k,814.4353484,832.8002836,118.6991021,32.57741393,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Deficit
 084r,2003-09-28,eddy8kto25k,804.1989877,827.7543267,156.1891706,32.16795951,Eddy,Eddy_Fluctuating_Zone.csv,2003-09-20,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Deficit
@@ -2760,6 +2836,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 084r,2013-09-29,eddy8kto25k,758.2664727,781.0231668,298.1171254,30.33065891,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Enrichment
 084r,2014-10-02,eddy8kto25k,674.8822287,698.2705516,283.8159343,26.99528915,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Enrichment
 084r,2015-10-01,eddy8kto25k,552.8187826,587.2001907,70.68385655,22.1127513,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Enrichment
+084r,2016-10-09,eddy8kto25k,679.0339607,713.0169786,150.9963043,27.16135843,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,3_EGC,642.995830434,Undifferentiated,1654.0,long,Sediment_Enrichment
 084r,2002-09-28,eddyabove25k,158.9292717,164.7442839,20.64974125,6.357170866,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Deficit
 084r,2003-05-03,eddyabove25k,169.0982384,175.0410974,16.7472028,6.763929537,Eddy,Eddy_High_Elevation_Zone.csv,2003-04-25,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Deficit
 084r,2003-09-28,eddyabove25k,162.642785,168.3255901,10.93220961,6.5057114,Eddy,Eddy_High_Elevation_Zone.csv,2003-09-20,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Deficit
@@ -2776,6 +2853,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 084r,2013-09-29,eddyabove25k,274.9396702,290.39307,108.9181024,10.99758681,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Enrichment
 084r,2014-10-02,eddyabove25k,309.9836547,324.979915,143.785699,12.39934619,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Enrichment
 084r,2015-10-01,eddyabove25k,288.8897546,309.3196017,105.9608651,11.55559018,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Enrichment
+084r,2016-10-09,eddyabove25k,280.7417459,298.5882777,112.5474453,11.22966984,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,3_EGC,150.365033383,Undifferentiated,1654.0,long,Sediment_Enrichment
 087l,1990-09-03,eddy8kto25k,324.6398531,358.4246688,169.0774683,12.98559413,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Deficit
 087l,1991-07-29,eddy8kto25k,339.1217117,372.2304828,154.3956543,13.56486847,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Deficit
 087l,1991-10-01,eddy8kto25k,346.9026921,380.2976653,183.988217,13.87610769,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,3_EGC,484.919360462,Undifferentiated,1153.0,na,Sediment_Deficit
@@ -2815,6 +2893,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 087l,2013-09-27,eddy8kto25k,369.7782244,406.3617617,325.7343113,14.79112897,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Enrichment
 087l,2014-10-02,eddy8kto25k,316.9989172,359.0294672,240.9160633,12.67995669,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Enrichment
 087l,2015-10-01,eddy8kto25k,323.1864157,365.1195953,265.6076236,12.92745663,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Enrichment
+087l,2016-10-09,eddy8kto25k,329.5755705,372.7132865,271.7376144,13.18302282,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,3_EGC,484.919360462,Undifferentiated,1153.0,long,Sediment_Enrichment
 087l,1992-10-23,eddyminto8k,414.5427611,446.3080961,494.2981306,103.6356903,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,3_EGC,789.764902515,Undifferentiated,1153.0,long,Sediment_Deficit
 087l,1993-10-15,eddyminto8k,394.5884642,418.8134314,590.8338784,71.02592355,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,3_EGC,789.764902515,Undifferentiated,1153.0,long,Sediment_Deficit
 087l,1994-04-15,eddyminto8k,390.5166136,438.6640475,423.4349835,70.29299045,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,3_EGC,789.764902515,Undifferentiated,1153.0,long,Sediment_Deficit
@@ -2870,6 +2949,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 087l,2013-09-27,eddyabove25k,366.4947837,395.9301516,239.9068708,14.65979135,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,3_EGC,337.216475011,Undifferentiated,1153.0,long,Sediment_Enrichment
 087l,2014-10-02,eddyabove25k,368.7328806,398.8098367,247.998942,14.74931522,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,3_EGC,337.216475011,Undifferentiated,1153.0,long,Sediment_Enrichment
 087l,2015-10-01,eddyabove25k,371.5889344,400.9058851,251.3972677,14.86355737,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,3_EGC,337.216475011,Undifferentiated,1153.0,long,Sediment_Enrichment
+087l,2016-10-09,eddyabove25k,368.376951,398.5529045,248.4056345,14.73507804,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,3_EGC,337.216475011,Undifferentiated,1153.0,long,Sediment_Enrichment
 091r,1990-09-28,eddy8kto25k,234.3185523,248.6578055,114.8007005,9.37274209,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Deficit
 091r,1991-07-27,eddy8kto25k,447.46317,464.0123572,243.0352998,17.8985268,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Deficit
 091r,1991-10-02,eddy8kto25k,332.5270444,355.8721326,87.10129571,13.30108177,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,1281.3142974,Separation ,4380.0,na,Sediment_Deficit
@@ -2907,6 +2987,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 091r,2013-09-30,eddy8kto25k,1025.542716,1053.510918,852.8249124,41.02170864,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Enrichment
 091r,2014-10-03,eddy8kto25k,552.0098582,575.0144061,375.1575534,22.08039433,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Enrichment
 091r,2015-10-02,eddy8kto25k,627.5187949,658.3047103,340.6995882,25.1007518,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Enrichment
+091r,2016-10-10,eddy8kto25k,529.9882766,559.965565,285.4642766,21.19953106,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,1281.3142974,Separation ,4380.0,long,Sediment_Enrichment
 091r,1992-10-24,eddyminto8k,3317.322211,3461.118092,4946.471891,829.3305527,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,11121.1602196,Separation ,4380.0,long,Sediment_Deficit
 091r,1993-04-08,eddyminto8k,2632.845134,2745.61284,2536.154017,473.9121241,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,4_CGC,11121.1602196,Separation ,4380.0,na,Sediment_Deficit
 091r,1993-10-16,eddyminto8k,3431.144039,3538.426382,2972.136697,617.6059271,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,11121.1602196,Separation ,4380.0,long,Sediment_Deficit
@@ -2960,6 +3041,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 091r,2013-09-30,eddyabove25k,552.8079251,577.0782224,169.4321518,22.112317,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,620.296288492,Separation ,4380.0,long,Sediment_Enrichment
 091r,2014-10-03,eddyabove25k,559.2515499,582.6146976,176.0409328,22.370062,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,620.296288492,Separation ,4380.0,long,Sediment_Enrichment
 091r,2015-10-02,eddyabove25k,564.5763937,586.5834541,163.0676762,22.58305575,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,620.296288492,Separation ,4380.0,long,Sediment_Enrichment
+091r,2016-10-10,eddyabove25k,564.5386948,588.378806,164.3221913,22.58154779,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,620.296288492,Separation ,4380.0,long,Sediment_Enrichment
 093l,1990-09-04,eddy8kto25k,1211.907313,1249.217944,265.4146719,48.47629254,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Deficit
 093l,1991-07-24,eddy8kto25k,1370.155576,1406.008107,797.1241334,54.80622304,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Deficit
 093l,1991-10-02,eddy8kto25k,1003.239629,1047.993751,504.2272877,40.12958516,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,2943.23504008,Undifferentiated,3592.0,na,Sediment_Deficit
@@ -2996,6 +3078,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 093l,2013-09-30,eddy8kto25k,1251.175837,1307.206207,2455.631515,50.04703347,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Enrichment
 093l,2014-10-03,eddy8kto25k,802.9258423,862.4644417,2318.08202,32.11703369,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Enrichment
 093l,2015-10-02,eddy8kto25k,758.9188339,823.2617294,2172.019767,30.35675335,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Enrichment
+093l,2016-10-10,eddy8kto25k,586.3441387,660.442023,2061.785092,23.45376555,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,2943.23504008,Undifferentiated,3592.0,long,Sediment_Enrichment
 093l,1992-10-24,eddyminto8k,1664.478039,1735.886181,3788.510162,416.1195097,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,5054.13620762,Undifferentiated,3592.0,long,Sediment_Deficit
 093l,1993-10-16,eddyminto8k,1687.331213,1753.981705,3616.786062,303.7196184,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,5054.13620762,Undifferentiated,3592.0,long,Sediment_Deficit
 093l,1994-04-16,eddyminto8k,1461.167521,1567.505875,3820.15578,263.0101537,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,4_CGC,5054.13620762,Undifferentiated,3592.0,long,Sediment_Deficit
@@ -3045,6 +3128,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 093l,2013-09-30,eddyabove25k,1264.24159,1297.102021,962.5272216,50.56966361,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,1163.36283561,Undifferentiated,3592.0,long,Sediment_Enrichment
 093l,2014-10-03,eddyabove25k,1366.41978,1393.550537,1012.143131,54.65679121,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,1163.36283561,Undifferentiated,3592.0,long,Sediment_Enrichment
 093l,2015-10-02,eddyabove25k,1364.00853,1396.131973,1051.140823,54.56034121,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,1163.36283561,Undifferentiated,3592.0,long,Sediment_Enrichment
+093l,2016-10-10,eddyabove25k,1327.591082,1359.549389,1013.736942,53.10364328,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,1163.36283561,Undifferentiated,3592.0,long,Sediment_Enrichment
 104r,1990-09-29,eddy8kto25k,258.1820944,282.4483748,134.6730424,10.32728378,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Deficit
 104r,1991-07-27,eddy8kto25k,288.3410903,315.0713644,130.7070284,11.53364361,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Deficit
 104r,1992-10-25,eddy8kto25k,294.8770376,315.446113,112.6425104,11.7950815,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Deficit
@@ -3079,6 +3163,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 104r,2013-09-30,eddy8kto25k,242.9892131,268.5443857,247.8992497,9.719568526,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Enrichment
 104r,2014-10-03,eddy8kto25k,157.2513648,180.0445205,160.6098812,6.290054591,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Enrichment
 104r,2015-10-02,eddy8kto25k,245.204094,273.0365606,191.5528973,9.808163759,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Enrichment
+104r,2016-10-10,eddy8kto25k,222.3561528,252.3377011,167.0718691,8.894246111,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,485.566933053,Reattachment,1021.0,long,Sediment_Enrichment
 104r,1993-10-17,eddyminto8k,561.8189022,600.0298731,368.255018,101.1274024,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,965.360598009,Reattachment,1021.0,long,Sediment_Deficit
 104r,1994-04-17,eddyminto8k,549.1132965,590.2291351,492.9404944,98.84039336,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,4_CGC,965.360598009,Reattachment,1021.0,long,Sediment_Deficit
 104r,1995-05-03,eddyminto8k,511.1208695,543.3943667,436.6173507,92.00175651,Eddy,Eddy_Low_Elevation_Zone.csv,1995-04-24,long,4_CGC,965.360598009,Reattachment,1021.0,long,Sediment_Deficit
@@ -3128,6 +3213,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 104r,2013-09-30,eddyabove25k,294.73424,310.1453654,211.1878347,11.7893696,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,258.483222507,Reattachment,1021.0,long,Sediment_Enrichment
 104r,2014-10-03,eddyabove25k,276.0490286,289.0901195,190.2078977,11.04196114,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,258.483222507,Reattachment,1021.0,long,Sediment_Enrichment
 104r,2015-10-02,eddyabove25k,271.9872729,289.3068677,179.7006846,10.87949092,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,258.483222507,Reattachment,1021.0,long,Sediment_Enrichment
+104r,2016-10-10,eddyabove25k,271.7871093,289.1074805,183.90135,10.87148437,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,258.483222507,Reattachment,1021.0,long,Sediment_Enrichment
 119r,1990-09-30,eddy8kto25k,2513.628861,2550.735396,2026.284514,100.5451544,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Deficit
 119r,1991-07-28,eddy8kto25k,2589.594921,2630.784508,2534.276924,103.5837968,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Deficit
 119r,1991-10-04,eddy8kto25k,2042.875401,2078.324038,1531.599191,81.71501602,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,5676.23802815,Reattachment,8929.0,na,Sediment_Deficit
@@ -3165,6 +3251,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 119r,2013-10-01,eddy8kto25k,1561.329167,1610.720044,2622.020053,62.45316667,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Enrichment
 119r,2014-10-04,eddy8kto25k,1179.969481,1257.014207,2734.377151,47.19877925,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Enrichment
 119r,2015-10-03,eddy8kto25k,1817.685431,1878.893094,2824.331881,72.70741726,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Enrichment
+119r,2016-10-11,eddy8kto25k,1566.064282,1628.982546,2212.485794,62.64257128,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,5676.23802815,Reattachment,8929.0,long,Sediment_Enrichment
 119r,1992-10-26,eddyminto8k,6621.096452,6882.458523,4050.934194,1655.274113,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,15048.8254488,Reattachment,8929.0,long,Sediment_Deficit
 119r,1993-10-18,eddyminto8k,5917.624622,6123.539843,4066.554841,1065.172432,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,15048.8254488,Reattachment,8929.0,long,Sediment_Deficit
 119r,1994-04-17,eddyminto8k,5531.325048,5799.028845,3844.233792,995.6385086,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,4_CGC,15048.8254488,Reattachment,8929.0,long,Sediment_Deficit
@@ -3219,6 +3306,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 119r,2013-10-01,eddyabove25k,1570.331571,1616.744375,1525.796205,62.81326286,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,3178.61743597,Reattachment,8929.0,long,Sediment_Enrichment
 119r,2014-10-04,eddyabove25k,1854.968586,1911.362661,1898.196005,74.19874342,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,3178.61743597,Reattachment,8929.0,long,Sediment_Enrichment
 119r,2015-10-03,eddyabove25k,1669.41976,1739.43849,1813.109606,66.77679039,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,3178.61743597,Reattachment,8929.0,long,Sediment_Enrichment
+119r,2016-10-11,eddyabove25k,1488.130689,1565.342863,1638.627557,59.52522757,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,3178.61743597,Reattachment,8929.0,long,Sediment_Enrichment
 122r,1990-10-01,eddy8kto25k,3921.737322,3959.439961,1647.123319,156.8694929,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Deficit
 122r,1991-07-28,eddy8kto25k,3794.725901,3835.506986,1576.752867,151.7890361,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Deficit
 122r,1991-10-04,eddy8kto25k,3254.858529,3287.420171,1445.610208,130.1943412,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,6640.73999757,Reattachment,8241.0,na,Sediment_Deficit
@@ -3257,6 +3345,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 122r,2013-10-01,eddy8kto25k,2600.980266,2631.839781,3047.019784,104.0392106,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Enrichment
 122r,2014-10-04,eddy8kto25k,2200.413911,2241.674902,3429.747254,88.01655643,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Enrichment
 122r,2015-10-03,eddy8kto25k,2530.142049,2568.962117,3509.833722,101.2056819,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Enrichment
+122r,2016-10-11,eddy8kto25k,2085.857694,2130.754564,3061.496911,83.43430775,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,6640.73999757,Reattachment,8241.0,long,Sediment_Enrichment
 122r,1992-10-27,eddyminto8k,4190.458055,4312.076506,5266.296127,1047.614514,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,12257.9391735,Reattachment,8241.0,long,Sediment_Deficit
 122r,1993-04-09,eddyminto8k,4124.667048,4253.061665,3964.795058,742.4400686,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,4_CGC,12257.9391735,Reattachment,8241.0,na,Sediment_Deficit
 122r,1993-10-18,eddyminto8k,4022.998493,4159.165199,2771.278144,724.1397288,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,12257.9391735,Reattachment,8241.0,long,Sediment_Deficit
@@ -3312,6 +3401,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 122r,2013-10-01,eddyabove25k,1872.826804,1892.111676,1536.141034,74.91307218,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,2507.99075278,Reattachment,8241.0,long,Sediment_Enrichment
 122r,2014-10-04,eddyabove25k,2307.94945,2330.048859,1645.576021,92.31797799,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,2507.99075278,Reattachment,8241.0,long,Sediment_Enrichment
 122r,2015-10-03,eddyabove25k,2423.719587,2450.955243,1810.705505,96.94878348,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,2507.99075278,Reattachment,8241.0,long,Sediment_Enrichment
+122r,2016-10-11,eddyabove25k,2357.158034,2382.506886,1828.647121,94.28632135,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,2507.99075278,Reattachment,8241.0,long,Sediment_Enrichment
 123l,1990-10-04,eddy8kto25k,1863.044646,1895.5133,1339.830092,74.52178586,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Deficit
 123l,1991-07-28,eddy8kto25k,1762.136669,1787.5315,1334.919896,70.48546675,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Deficit
 123l,1992-10-27,eddy8kto25k,1578.811246,1614.336223,1034.525496,63.15244983,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Deficit
@@ -3347,6 +3437,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 123l,2013-10-02,eddy8kto25k,1252.444775,1315.399834,1211.427316,50.09779099,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Enrichment
 123l,2014-10-05,eddy8kto25k,1090.580848,1154.73379,1053.802588,43.62323394,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Enrichment
 123l,2015-10-04,eddy8kto25k,1514.279258,1578.783161,1810.491165,60.57117033,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Enrichment
+123l,2016-10-12,eddy8kto25k,1254.978475,1305.630014,1699.187696,50.19913901,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,3312.3720036,Reattachment,8523.0,long,Sediment_Enrichment
 123l,1992-10-27,eddyminto8k,6278.703528,6545.877007,10890.06513,1569.675882,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,17282.4029536,Reattachment,8523.0,long,Sediment_Deficit
 123l,1993-10-18,eddyminto8k,5556.798996,5744.982444,9536.99824,1000.223819,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,17282.4029536,Reattachment,8523.0,long,Sediment_Deficit
 123l,1994-04-19,eddyminto8k,6378.479237,6632.017811,7822.803623,1148.126263,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,4_CGC,17282.4029536,Reattachment,8523.0,long,Sediment_Deficit
@@ -3398,6 +3489,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 123l,2013-10-02,eddyabove25k,1106.679049,1146.337817,1533.366061,44.26716196,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,1917.36419429,Reattachment,8523.0,long,Sediment_Enrichment
 123l,2014-10-05,eddyabove25k,1103.51919,1141.14924,1591.902897,44.14076759,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,1917.36419429,Reattachment,8523.0,long,Sediment_Enrichment
 123l,2015-10-04,eddyabove25k,1195.553891,1232.794456,1669.065828,47.82215565,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,1917.36419429,Reattachment,8523.0,long,Sediment_Enrichment
+123l,2016-10-12,eddyabove25k,1185.653432,1221.090904,1696.526449,47.42613729,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,1917.36419429,Reattachment,8523.0,long,Sediment_Enrichment
 137l,1990-10-02,eddy8kto25k,3390.418897,3440.25151,2362.592979,135.6167559,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Deficit
 137l,1991-07-29,eddy8kto25k,3359.57109,3414.375418,2575.416209,134.3828436,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Deficit
 137l,1991-10-05,eddy8kto25k,3388.942369,3419.308877,1657.810227,135.5576947,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,4619.64697415,Reattachment,5137.0,na,Sediment_Deficit
@@ -3435,6 +3527,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 137l,2013-10-02,eddy8kto25k,2893.780229,2930.354074,1895.622782,115.7512091,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Enrichment
 137l,2014-10-05,eddy8kto25k,2301.911465,2349.885058,2043.717765,92.07645858,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Enrichment
 137l,2015-10-04,eddy8kto25k,2681.727641,2725.110577,1902.137384,107.2691056,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Enrichment
+137l,2016-10-13,eddy8kto25k,2695.055388,2741.94589,1651.388874,107.8022155,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,4619.64697415,Reattachment,5137.0,long,Sediment_Enrichment
 137l,1992-10-28,eddyminto8k,1497.557226,1572.589414,1582.144341,374.3893064,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,2084.09007304,Reattachment,5137.0,long,Sediment_Deficit
 137l,1993-04-11,eddyminto8k,1637.888211,1733.306682,1356.154826,294.8198779,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,4_CGC,2084.09007304,Reattachment,5137.0,na,Sediment_Deficit
 137l,1993-10-19,eddyminto8k,1501.805001,1582.136925,1602.580596,270.3249001,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,2084.09007304,Reattachment,5137.0,long,Sediment_Deficit
@@ -3490,6 +3583,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 137l,2013-10-02,eddyabove25k,640.301351,656.3592558,368.3145592,25.61205404,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,2057.92910214,Reattachment,5137.0,long,Sediment_Enrichment
 137l,2014-10-05,eddyabove25k,1169.905004,1188.298436,672.6645928,46.79620017,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,2057.92910214,Reattachment,5137.0,long,Sediment_Enrichment
 137l,2015-10-04,eddyabove25k,975.0775383,997.3805311,647.7241082,39.00310153,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,2057.92910214,Reattachment,5137.0,long,Sediment_Enrichment
+137l,2016-10-13,eddyabove25k,905.6237527,925.0399453,563.4779922,36.22495011,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,2057.92910214,Reattachment,5137.0,long,Sediment_Enrichment
 139r,1990-06-17,eddy8kto25k,1846.117861,1888.660507,1586.949539,73.84471445,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Deficit
 139r,1991-07-29,eddy8kto25k,1571.162333,1620.139996,1571.247409,62.84649332,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Deficit
 139r,1992-10-28,eddy8kto25k,1460.101605,1522.653944,1033.138239,58.4040642,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Deficit
@@ -3524,6 +3618,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 139r,2013-10-03,eddy8kto25k,948.4462258,1046.469753,1630.204312,37.93784903,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Enrichment
 139r,2014-10-06,eddy8kto25k,1000.553317,1077.700362,2115.19407,40.02213269,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Enrichment
 139r,2015-10-05,eddy8kto25k,1078.840761,1173.623287,1494.011504,43.15363044,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Enrichment
+139r,2016-10-13,eddy8kto25k,1218.446578,1314.332425,1631.815525,48.73786312,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,2953.0737232,Undifferentiated,7185.0,long,Sediment_Enrichment
 139r,1992-10-28,eddyminto8k,4864.063876,5034.444347,7181.180455,1216.015969,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,13012.4328508,Undifferentiated,7185.0,long,Sediment_Deficit
 139r,1993-10-19,eddyminto8k,6126.537014,6342.098376,4957.210616,1102.776663,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,13012.4328508,Undifferentiated,7185.0,long,Sediment_Deficit
 139r,1994-04-19,eddyminto8k,5225.510178,5490.582598,8447.026877,940.5918321,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,4_CGC,13012.4328508,Undifferentiated,7185.0,long,Sediment_Deficit
@@ -3574,6 +3669,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 139r,2013-10-03,eddyabove25k,589.4260282,638.172054,475.5515016,23.57704113,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,481.345076862,Undifferentiated,7185.0,long,Sediment_Enrichment
 139r,2014-10-06,eddyabove25k,752.2463173,793.7331224,609.8141599,30.08985269,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,481.345076862,Undifferentiated,7185.0,long,Sediment_Enrichment
 139r,2015-10-05,eddyabove25k,588.6513396,644.0128309,538.8176018,23.54605358,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,481.345076862,Undifferentiated,7185.0,long,Sediment_Enrichment
+139r,2016-10-13,eddyabove25k,579.98994,638.6759931,527.4535256,23.1995976,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,481.345076862,Undifferentiated,7185.0,long,Sediment_Enrichment
 145l,1990-09-28,eddy8kto25k,625.2983024,647.7676908,270.9059811,25.0119321,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Deficit
 145l,1991-07-27,eddy8kto25k,696.9946686,726.5898543,438.2635455,27.87978674,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Deficit
 145l,1991-10-06,eddy8kto25k,619.8830436,645.9968083,302.8491713,24.79532174,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,4_CGC,1050.45358893,Reattachment,1276.0,na,Sediment_Deficit
@@ -3612,6 +3708,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 145l,2013-10-03,eddy8kto25k,404.7985831,442.4131922,497.8405732,16.19194332,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Enrichment
 145l,2014-10-06,eddy8kto25k,365.9347218,405.7752558,559.5259465,14.63738887,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Enrichment
 145l,2015-10-05,eddy8kto25k,384.0959837,419.706682,506.8394945,15.36383935,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Enrichment
+145l,2016-10-13,eddy8kto25k,460.9478991,494.2707784,508.8869282,18.43791597,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,4_CGC,1050.45358893,Reattachment,1276.0,long,Sediment_Enrichment
 145l,1992-10-28,eddyminto8k,413.3613508,444.360246,151.5752762,103.3403377,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,4_CGC,549.593668274,Reattachment,1276.0,long,Sediment_Deficit
 145l,1993-04-11,eddyminto8k,297.3016457,329.7293611,287.0671281,53.51429622,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,4_CGC,549.593668274,Reattachment,1276.0,na,Sediment_Deficit
 145l,1993-10-20,eddyminto8k,333.6699737,364.6124971,265.8679615,60.06059526,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,4_CGC,549.593668274,Reattachment,1276.0,long,Sediment_Deficit
@@ -3668,6 +3765,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 145l,2013-10-03,eddyabove25k,516.1593971,536.0278647,260.6379289,20.64637589,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,4_CGC,990.619499705,Reattachment,1276.0,long,Sediment_Enrichment
 145l,2014-10-06,eddyabove25k,525.7091884,541.2610408,312.9673179,21.02836754,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,4_CGC,990.619499705,Reattachment,1276.0,long,Sediment_Enrichment
 145l,2015-10-05,eddyabove25k,521.5176874,541.6745382,326.8039931,20.8607075,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,4_CGC,990.619499705,Reattachment,1276.0,long,Sediment_Enrichment
+145l,2016-10-13,eddyabove25k,488.9239133,504.2251529,242.9294439,19.55695653,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,4_CGC,990.619499705,Reattachment,1276.0,long,Sediment_Enrichment
 167l,2002-10-03,eddy8kto25k,2138.27634,2153.196092,1409.703298,85.5310536,Eddy,Eddy_Fluctuating_Zone.csv,2002-09-20,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Deficit
 167l,2003-05-08,eddy8kto25k,2135.364321,2150.057961,1442.528269,85.41457282,Eddy,Eddy_Fluctuating_Zone.csv,2003-04-25,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Deficit
 167l,2003-10-03,eddy8kto25k,2212.101356,2244.167304,1277.459385,88.48405422,Eddy,Eddy_Fluctuating_Zone.csv,2003-09-20,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Deficit
@@ -3684,6 +3782,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 167l,2013-10-04,eddy8kto25k,3738.796022,3758.586881,1508.910146,149.5518409,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Enrichment
 167l,2014-10-07,eddy8kto25k,3526.078828,3561.369837,1500.252591,141.0431531,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Enrichment
 167l,2015-10-06,eddy8kto25k,3520.768898,3539.627119,1871.082128,140.8307559,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Enrichment
+167l,2016-10-14,eddy8kto25k,3530.718194,3543.097512,2105.163511,141.2287278,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,short,5_WGC,2954.11271692,Separation ,5144.0,long,Sediment_Enrichment
 167l,2002-10-03,eddyabove25k,2081.853245,2097.211071,713.5819951,83.27412979,Eddy,Eddy_High_Elevation_Zone.csv,2002-09-20,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Deficit
 167l,2003-05-08,eddyabove25k,2088.598551,2103.236544,718.3986294,83.54394204,Eddy,Eddy_High_Elevation_Zone.csv,2003-04-25,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Deficit
 167l,2003-10-03,eddyabove25k,2039.524885,2055.595492,712.9137107,81.58099542,Eddy,Eddy_High_Elevation_Zone.csv,2003-09-20,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Deficit
@@ -3700,6 +3799,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 167l,2013-10-04,eddyabove25k,1260.869506,1285.891674,152.6935021,50.43478023,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Enrichment
 167l,2014-10-07,eddyabove25k,1428.168984,1456.197492,119.7103334,57.12675935,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Enrichment
 167l,2015-10-06,eddyabove25k,1406.552899,1431.650715,135.459648,56.26211596,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Enrichment
+167l,2016-10-14,eddyabove25k,1465.968879,1489.518931,139.4011097,58.63875517,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,short,5_WGC,2108.3047957,Separation ,5144.0,long,Sediment_Enrichment
 172l,1990-06-18,eddy8kto25k,3117.644874,3170.537673,4294.084959,124.7057949,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Deficit
 172l,1991-07-28,eddy8kto25k,2650.676968,2718.22603,3343.174936,106.0270787,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Deficit
 172l,1991-10-07,eddy8kto25k,1395.625478,1486.81463,2171.81268,55.82501911,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,5_WGC,7822.26418885,Reattachment,9459.0,na,Sediment_Deficit
@@ -3738,6 +3838,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 172l,2013-10-04,eddy8kto25k,2262.570763,2344.902001,6597.584239,90.50283051,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Enrichment
 172l,2014-10-07,eddy8kto25k,1805.133234,1900.017935,6318.488633,72.20532937,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Enrichment
 172l,2015-10-06,eddy8kto25k,1489.718871,1596.42425,5986.131875,59.58875484,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Enrichment
+172l,2016-10-14,eddy8kto25k,1894.593553,1999.308115,6242.691693,75.78374211,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,7822.26418885,Reattachment,9459.0,long,Sediment_Enrichment
 172l,1992-10-30,eddyminto8k,6128.039116,6325.715926,9154.026919,1532.009779,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,16461.0612831,Reattachment,9459.0,long,Sediment_Deficit
 172l,1993-04-12,eddyminto8k,3560.11107,3670.938856,4357.721406,640.8199927,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,16461.0612831,Reattachment,9459.0,na,Sediment_Deficit
 172l,1993-10-23,eddyminto8k,6613.097801,6811.450458,7457.986147,1190.357604,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,16461.0612831,Reattachment,9459.0,long,Sediment_Deficit
@@ -3794,6 +3895,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 172l,2013-10-04,eddyabove25k,3090.762961,3154.463242,2561.253693,123.6305185,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,2751.58279197,Reattachment,9459.0,long,Sediment_Enrichment
 172l,2014-10-07,eddyabove25k,3417.339464,3482.249842,2854.537527,136.6935786,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,2751.58279197,Reattachment,9459.0,long,Sediment_Enrichment
 172l,2015-10-06,eddyabove25k,3347.584995,3424.665416,2862.7284,133.9033998,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,2751.58279197,Reattachment,9459.0,long,Sediment_Enrichment
+172l,2016-10-14,eddyabove25k,3398.607454,3478.300451,2911.360019,135.9442982,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,2751.58279197,Reattachment,9459.0,long,Sediment_Enrichment
 183r,1990-10-01,eddy8kto25k,1779.240305,1811.210359,797.8409419,71.16961222,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Deficit
 183r,1991-07-28,eddy8kto25k,1757.994099,1792.444346,479.8533573,70.31976395,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Deficit
 183r,1991-10-08,eddy8kto25k,1753.88404,1775.157517,433.6673992,70.15536162,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,5_WGC,3408.76347016,Reattachment,5081.0,na,Sediment_Deficit
@@ -3831,6 +3933,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 183r,2013-10-05,eddy8kto25k,1245.538264,1290.895608,1457.570846,49.82153055,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Enrichment
 183r,2014-10-08,eddy8kto25k,1101.348123,1138.144865,1446.173176,44.0539249,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Enrichment
 183r,2015-10-07,eddy8kto25k,1329.060779,1365.66334,1641.185017,53.16243117,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Enrichment
+183r,2016-10-15,eddy8kto25k,1280.638019,1325.319994,1625.963298,51.22552074,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,3408.76347016,Reattachment,5081.0,long,Sediment_Enrichment
 183r,1992-10-31,eddyminto8k,2620.527186,2685.992178,4088.478235,655.1317965,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,5176.72784315,Reattachment,5081.0,long,Sediment_Deficit
 183r,1993-04-12,eddyminto8k,2283.278655,2383.57345,4489.8857,410.990158,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,5176.72784315,Reattachment,5081.0,na,Sediment_Deficit
 183r,1993-10-23,eddyminto8k,2520.606125,2601.951761,4236.548019,453.7091025,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,5176.72784315,Reattachment,5081.0,long,Sediment_Deficit
@@ -3883,6 +3986,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 183r,2013-10-05,eddyabove25k,1278.237788,1329.431805,1406.851499,51.12951153,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,1734.47775392,Reattachment,5081.0,long,Sediment_Enrichment
 183r,2014-10-08,eddyabove25k,1347.008512,1392.173445,1456.601789,53.88034046,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,1734.47775392,Reattachment,5081.0,long,Sediment_Enrichment
 183r,2015-10-07,eddyabove25k,1318.41947,1369.035315,1456.273864,52.73677878,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,1734.47775392,Reattachment,5081.0,long,Sediment_Enrichment
+183r,2016-10-15,eddyabove25k,1298.684036,1350.362035,1454.048487,51.94736144,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,1734.47775392,Reattachment,5081.0,long,Sediment_Enrichment
 194l,1990-10-02,eddy8kto25k,7860.996457,7916.936801,3567.255758,314.4398583,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Deficit
 194l,1991-07-29,eddy8kto25k,7021.47553,7087.458521,4085.602164,280.8590212,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Deficit
 194l,1991-10-08,eddy8kto25k,7428.792453,7490.66337,3741.465587,297.1516981,Eddy,Eddy_Fluctuating_Zone.csv,1991-10-01,long,5_WGC,7071.93444123,Reattachment,14141.0,na,Sediment_Deficit
@@ -3921,6 +4025,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 194l,2013-10-05,eddy8kto25k,2320.599686,2421.964024,4540.059268,92.82398744,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Enrichment
 194l,2014-10-08,eddy8kto25k,2002.279678,2141.986625,4397.362841,80.09118711,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Enrichment
 194l,2015-10-07,eddy8kto25k,2341.254046,2475.552623,4397.0654,93.65016182,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Enrichment
+194l,2016-10-15,eddy8kto25k,2441.612728,2568.227448,4510.995087,97.66450913,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,7071.93444123,Reattachment,14141.0,long,Sediment_Enrichment
 194l,1992-11-01,eddyminto8k,4775.338783,4947.74748,13539.72865,1193.834696,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,18309.5827593,Reattachment,14141.0,long,Sediment_Deficit
 194l,1993-04-13,eddyminto8k,4923.15196,5086.848274,12150.23861,886.1673529,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,18309.5827593,Reattachment,14141.0,na,Sediment_Deficit
 194l,1993-10-23,eddyminto8k,4806.418621,4949.368704,12795.91919,865.1553518,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,18309.5827593,Reattachment,14141.0,long,Sediment_Deficit
@@ -3977,6 +4082,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 194l,2013-10-05,eddyabove25k,6254.178267,6327.240958,6294.436072,250.1671307,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,7016.68141657,Reattachment,14141.0,long,Sediment_Enrichment
 194l,2014-10-08,eddyabove25k,6337.668401,6423.435186,6453.722137,253.506736,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,7016.68141657,Reattachment,14141.0,long,Sediment_Enrichment
 194l,2015-10-07,eddyabove25k,6225.588309,6324.485264,6344.592761,249.0235324,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,7016.68141657,Reattachment,14141.0,long,Sediment_Enrichment
+194l,2016-10-15,eddyabove25k,6144.217357,6244.087616,6309.00583,245.7686943,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,7016.68141657,Reattachment,14141.0,long,Sediment_Enrichment
 202r,1990-10-02,eddy8kto25k,1668.819,1687.84,2020.526,66.75278,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Deficit
 202r,1991-07-29,eddy8kto25k,1867.86,1886.864,2296.422,74.7144,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Deficit
 202r,1992-11-01,eddy8kto25k,1611.019,1628.39,1696.791,64.44076,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Deficit
@@ -4013,6 +4119,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 202r,2013-10-06,eddy8kto25k,1590.695,1613.311,1567.682,63.62779,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Enrichment
 202r,2014-10-08,eddy8kto25k,1032.912,1067.649,1962.51,41.31649,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Enrichment
 202r,2015-10-07,eddy8kto25k,1190.744,1230.631,1618.168,47.62975,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Enrichment
+202r,2016-10-15,eddy8kto25k,1196.07,1237.938,1486.755,47.84282,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,3565.6722645,Total,13937.0,long,Sediment_Enrichment
 202r,1992-11-01,eddyminto8k,11352.51,11636.99,16122.08,2838.128,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,43214.9826717,Total,13937.0,long,Sediment_Deficit
 202r,1993-04-13,eddyminto8k,11521.51,11824.21,14560.28,2073.872,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,43214.9826717,Total,13937.0,na,Sediment_Deficit
 202r,1993-10-24,eddyminto8k,11100.97,11348.91,6592.497,1998.175,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,43214.9826717,Total,13937.0,long,Sediment_Deficit
@@ -4065,6 +4172,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 202r,2013-10-06,eddyabove25k,1006.421,1027.344,778.0852,40.25685,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,1323.7435056,Total,13937.0,long,Sediment_Enrichment
 202r,2014-10-08,eddyabove25k,1377.137,1413.076,1130.872,55.08549,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,1323.7435056,Total,13937.0,long,Sediment_Enrichment
 202r,2015-10-07,eddyabove25k,1286.295,1318.178,1165.151,51.45179,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,1323.7435056,Total,13937.0,long,Sediment_Enrichment
+202r,2016-10-15,eddyabove25k,1194.891,1235.965,1135.58,47.79563,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,1323.7435056,Total,13937.0,long,Sediment_Enrichment
 202r_r,1990-10-02,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,202R_R_Fluc.csv,1990-06-10,long,5_WGC,551.467038473,Reattachment,8218.0,long,Sediment_Deficit
 202r_r,1991-07-29,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,202R_R_Fluc.csv,1991-07-26,long,5_WGC,551.467038473,Reattachment,8218.0,long,Sediment_Deficit
 202r_r,1992-11-01,eddy8kto25k,0.0,0.0,0.0,0.0,Eddy,202R_R_Fluc.csv,1992-10-15,long,5_WGC,551.467038473,Reattachment,8218.0,long,Sediment_Deficit
@@ -4189,6 +4297,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 202r_s,2013-10-06,eddy8kto25k,1590.694686,1613.311389,1567.682343,63.62778744,Eddy,202R_S_Fluc.csv,2013-09-21,long,5_WGC,3014.20522602,Separation,5719.0,long,Sediment_Enrichment
 202r_s,2014-10-08,eddy8kto25k,1032.912371,1067.649248,1962.509891,41.31649485,Eddy,202R_S_Fluc.csv,2014-09-23,long,5_WGC,3014.20522602,Separation,5719.0,long,Sediment_Enrichment
 202r_s,2015-10-07,eddy8kto25k,1190.743776,1230.630896,1618.167895,47.62975105,Eddy,202R_S_Fluc.csv,2015-09-22,long,5_WGC,3014.20522602,Separation,5719.0,long,Sediment_Enrichment
+202r_s,2016-10-15,eddy8kto25k,1196.070474,1237.938115,1486.754839,47.84281895,Eddy,202R_S_Fluc.csv,2016-10-01,long,5_WGC,3014.20522602,Separation,5719.0,long,Sediment_Enrichment
 202r_s,1992-11-01,eddyminto8k,3134.464226,3206.414099,5548.971234,783.6160566,Eddy,202R_S_Low.csv,1992-10-15,long,5_WGC,10014.5824911,Separation,5719.0,long,Sediment_Deficit
 202r_s,1993-04-13,eddyminto8k,3379.456416,3476.882086,4985.480159,608.3021549,Eddy,202R_S_Low.csv,1993-04-01,long,5_WGC,10014.5824911,Separation,5719.0,na,Sediment_Deficit
 202r_s,1993-10-24,eddyminto8k,3527.229121,3613.286585,2487.748863,634.9012417,Eddy,202R_S_Low.csv,1993-10-08,long,5_WGC,10014.5824911,Separation,5719.0,long,Sediment_Deficit
@@ -4241,6 +4350,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 202r_s,2013-10-06,eddyabove25k,1006.421366,1027.343865,778.0851552,40.25685465,Eddy,202R_S_High.csv,2013-09-21,long,5_WGC,1323.7435056,Separation,5719.0,long,Sediment_Enrichment
 202r_s,2014-10-08,eddyabove25k,1377.137287,1413.07647,1130.872164,55.08549147,Eddy,202R_S_High.csv,2014-09-23,long,5_WGC,1323.7435056,Separation,5719.0,long,Sediment_Enrichment
 202r_s,2015-10-07,eddyabove25k,1286.294724,1318.177963,1165.150965,51.45178896,Eddy,202R_S_High.csv,2015-09-22,long,5_WGC,1323.7435056,Separation,5719.0,long,Sediment_Enrichment
+202r_s,2016-10-15,eddyabove25k,1194.890743,1235.964845,1135.579905,47.7956297,Eddy,202R_S_High.csv,2016-10-01,long,5_WGC,1323.7435056,Separation,5719.0,long,Sediment_Enrichment
 213l,1990-09-18,eddy8kto25k,447.9570457,469.9768515,881.3758363,17.91828183,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Deficit
 213l,1991-07-29,eddy8kto25k,1006.654939,1054.564344,1002.904806,40.26619757,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Deficit
 213l,1992-11-02,eddy8kto25k,1451.629695,1510.585132,1638.411692,58.06518779,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Deficit
@@ -4277,6 +4387,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 213l,2013-10-06,eddy8kto25k,1384.941202,1432.813453,2411.263233,55.39764808,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Enrichment
 213l,2014-10-09,eddy8kto25k,718.2891298,778.3997205,2653.83443,28.73156519,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Enrichment
 213l,2015-10-08,eddy8kto25k,962.0650227,1032.1304,1825.549781,38.48260091,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Enrichment
+213l,2016-10-16,eddy8kto25k,951.4784757,1020.442227,1586.942426,38.05913903,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,4369.51453711,Undifferentiated,3994.0,long,Sediment_Enrichment
 213l,1992-11-02,eddyminto8k,1829.488988,1959.08343,3116.962002,457.3722471,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,5455.9057896,Undifferentiated,3994.0,long,Sediment_Deficit
 213l,1993-04-14,eddyminto8k,2034.139539,2178.870707,2988.592749,366.145117,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,5455.9057896,Undifferentiated,3994.0,na,Sediment_Deficit
 213l,1993-10-25,eddyminto8k,2188.987795,2337.086021,2200.782532,394.0178032,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,5455.9057896,Undifferentiated,3994.0,long,Sediment_Deficit
@@ -4330,6 +4441,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 213l,2013-10-06,eddyabove25k,837.7387315,884.6652116,703.5907696,33.50954926,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,1617.47396467,Undifferentiated,3994.0,long,Sediment_Enrichment
 213l,2014-10-09,eddyabove25k,1272.88747,1301.837746,1089.155725,50.91549882,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,1617.47396467,Undifferentiated,3994.0,long,Sediment_Enrichment
 213l,2015-10-08,eddyabove25k,1101.911768,1154.409814,1200.597569,44.07647071,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,1617.47396467,Undifferentiated,3994.0,long,Sediment_Enrichment
+213l,2016-10-16,eddyabove25k,1014.834884,1063.137722,1050.28397,40.59339538,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,1617.47396467,Undifferentiated,3994.0,long,Sediment_Enrichment
 220r,1990-09-18,eddy8kto25k,749.0378554,765.1748808,301.7836296,29.96151422,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Deficit
 220r,1991-07-30,eddy8kto25k,736.8260705,753.4493027,416.3858579,29.47304282,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Deficit
 220r,1991-11-09,eddy8kto25k,737.8703653,753.5097353,317.6556646,29.51481461,Eddy,Eddy_Fluctuating_Zone.csv,1991-11-01,long,5_WGC,743.027722703,Undifferentiated,5448.0,na,Sediment_Deficit
@@ -4366,6 +4478,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 220r,2013-10-06,eddy8kto25k,388.1749349,414.9164372,496.3757716,15.5269974,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Enrichment
 220r,2014-10-09,eddy8kto25k,317.9708697,348.7377385,475.6297762,12.71883479,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Enrichment
 220r,2015-10-08,eddy8kto25k,370.9741445,406.5404241,497.0110454,14.83896578,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Enrichment
+220r,2016-10-16,eddy8kto25k,324.8759852,357.0522115,510.9633323,12.99503941,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,743.027722703,Undifferentiated,5448.0,long,Sediment_Enrichment
 220r,1992-11-02,eddyminto8k,586.5795183,627.8049897,454.7137357,146.6448796,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,948.285978605,Undifferentiated,5448.0,long,Sediment_Deficit
 220r,1993-04-14,eddyminto8k,551.1964018,589.3918172,645.6691208,99.21535232,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,long,5_WGC,948.285978605,Undifferentiated,5448.0,na,Sediment_Deficit
 220r,1993-10-25,eddyminto8k,639.7098542,676.4989682,522.9377342,115.1477738,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,948.285978605,Undifferentiated,5448.0,long,Sediment_Deficit
@@ -4420,6 +4533,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 220r,2013-10-06,eddyabove25k,1516.808349,1536.008325,800.6579396,60.67233397,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,1064.47630449,Undifferentiated,5448.0,long,Sediment_Enrichment
 220r,2014-10-09,eddyabove25k,1533.77016,1553.851391,806.2057768,61.35080642,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,1064.47630449,Undifferentiated,5448.0,long,Sediment_Enrichment
 220r,2015-10-08,eddyabove25k,1541.930028,1563.26224,860.0838929,61.67720114,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,1064.47630449,Undifferentiated,5448.0,long,Sediment_Enrichment
+220r,2016-10-16,eddyabove25k,1540.662655,1562.768048,853.01471,61.62650621,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,1064.47630449,Undifferentiated,5448.0,long,Sediment_Enrichment
 225r,1990-11-03,eddy8kto25k,2359.905787,2386.330094,1038.576176,94.3962315,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Deficit
 225r,1991-07-30,eddy8kto25k,2389.32717,2427.066297,1252.24077,95.5730868,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Deficit
 225r,1992-11-02,eddy8kto25k,2811.517935,2841.781612,1710.298403,112.4607174,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Deficit
@@ -4455,6 +4569,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 225r,2013-10-07,eddy8kto25k,1362.849979,1400.781811,3037.128375,54.51399917,Eddy,Eddy_Fluctuating_Zone.csv,2013-09-21,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Enrichment
 225r,2014-10-10,eddy8kto25k,886.3902839,929.4444223,2893.118438,35.45561136,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Enrichment
 225r,2015-10-09,eddy8kto25k,597.0436599,660.1256853,2391.77509,23.8817464,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Enrichment
+225r,2016-10-16,eddy8kto25k,764.4802937,825.707079,2569.198386,30.57921175,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,long,5_WGC,3467.40921936,Reattachment,5635.0,long,Sediment_Enrichment
 225r,1992-11-02,eddyminto8k,2794.134536,2883.429362,8736.215544,698.5336339,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,long,5_WGC,13643.5271904,Reattachment,5635.0,long,Sediment_Deficit
 225r,1993-10-26,eddyminto8k,3985.76144,4062.538064,5240.016963,717.4370591,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,long,5_WGC,13643.5271904,Reattachment,5635.0,long,Sediment_Deficit
 225r,1994-04-24,eddyminto8k,3347.549451,3421.342438,7933.703914,602.5589012,Eddy,Eddy_Low_Elevation_Zone.csv,1994-04-07,long,5_WGC,13643.5271904,Reattachment,5635.0,long,Sediment_Deficit
@@ -4506,6 +4621,7 @@ Site,SurveyDate,Plane_Height,Area_2D,Area_3D,Volume,Errors,SitePart,Processed_Fi
 225r,2013-10-07,eddyabove25k,1815.245253,1848.273168,1689.831517,72.60981012,Eddy,Eddy_High_Elevation_Zone.csv,2013-09-21,long,5_WGC,1921.36061539,Reattachment,5635.0,long,Sediment_Enrichment
 225r,2014-10-10,eddyabove25k,2057.691497,2087.884338,1850.909466,82.30765989,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,long,5_WGC,1921.36061539,Reattachment,5635.0,long,Sediment_Enrichment
 225r,2015-10-09,eddyabove25k,1928.963721,1973.30905,1858.740859,77.15854886,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,long,5_WGC,1921.36061539,Reattachment,5635.0,long,Sediment_Enrichment
+225r,2016-10-16,eddyabove25k,1934.057087,1977.675107,1867.24267,77.36228347,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,long,5_WGC,1921.36061539,Reattachment,5635.0,long,Sediment_Enrichment
 m006r,1990-07-12,eddy8kto25k,3145.386989,3178.447383,1221.535124,125.8154795,Eddy,Eddy_Fluctuating_Zone.csv,1990-06-10,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Deficit
 m006r,1991-07-26,eddy8kto25k,3459.774622,3484.840946,901.0389684,138.3909849,Eddy,Eddy_Fluctuating_Zone.csv,1991-07-26,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Deficit
 m006r,1992-11-18,eddy8kto25k,3418.090566,3456.05778,884.2819385,136.7236226,Eddy,Eddy_Fluctuating_Zone.csv,1992-10-15,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Deficit
@@ -4535,6 +4651,7 @@ m006r,2009-09-23,eddy8kto25k,3769.128391,3806.075705,1616.133053,150.7651356,Edd
 m006r,2014-06-13,eddy8kto25k,4069.391313,4110.933879,2110.085402,162.7756525,Eddy,Eddy_Fluctuating_Zone.csv,2014-06-13,na,0_Glen,2700.45094206,,11105.0,na,Sediment_Enrichment
 m006r,2014-09-23,eddy8kto25k,4041.38091,4081.020129,2111.305568,161.6552364,Eddy,Eddy_Fluctuating_Zone.csv,2014-09-23,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Enrichment
 m006r,2015-09-22,eddy8kto25k,4323.781889,4362.871156,2374.541059,172.9512756,Eddy,Eddy_Fluctuating_Zone.csv,2015-09-22,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Enrichment
+m006r,2016-09-07,eddy8kto25k,4380.200013,4413.121557,2347.111815,175.2080005,Eddy,Eddy_Fluctuating_Zone.csv,2016-10-01,na,0_Glen,2700.45094206,,11105.0,long,Sediment_Enrichment
 m006r,1992-11-18,eddyminto8k,7100.343891,7341.061818,5594.497537,1775.085973,Eddy,Eddy_Low_Elevation_Zone.csv,1992-10-15,na,0_Glen,12020.6020493,,11105.0,long,Sediment_Deficit
 m006r,1993-03-17,eddyminto8k,6007.821033,6253.995306,3247.203017,1081.407786,Eddy,Eddy_Low_Elevation_Zone.csv,1993-04-01,na,0_Glen,12020.6020493,,11105.0,na,Sediment_Deficit
 m006r,1993-11-17,eddyminto8k,7150.724833,7405.911688,6705.482045,1287.13047,Eddy,Eddy_Low_Elevation_Zone.csv,1993-10-08,na,0_Glen,12020.6020493,,11105.0,long,Sediment_Deficit
@@ -4581,6 +4698,7 @@ m006r,2009-09-23,eddyabove25k,498.4798073,516.5826738,123.9327977,19.93919229,Ed
 m006r,2014-06-13,eddyabove25k,542.5128299,557.1892617,123.6987199,21.70051319,Eddy,Eddy_High_Elevation_Zone.csv,2014-06-13,na,0_Glen,372.436865063,,11105.0,na,Sediment_Enrichment
 m006r,2014-09-23,eddyabove25k,561.8345833,576.779491,127.6370442,22.47338333,Eddy,Eddy_High_Elevation_Zone.csv,2014-09-23,na,0_Glen,372.436865063,,11105.0,long,Sediment_Enrichment
 m006r,2015-09-22,eddyabove25k,559.9846994,575.8817964,146.2365857,22.39938798,Eddy,Eddy_High_Elevation_Zone.csv,2015-09-22,na,0_Glen,372.436865063,,11105.0,long,Sediment_Enrichment
+m006r,2016-09-07,eddyabove25k,577.5784336,591.2594319,133.0373181,23.10313735,Eddy,Eddy_High_Elevation_Zone.csv,2016-10-01,na,0_Glen,372.436865063,,11105.0,long,Sediment_Enrichment
 003l,1994-04-07,chanminto8k,16061.46878,16318.51791,46568.72707,2891.06438,Channel,Channel_Low_Elevation.csv,1994-04-07,long,1_UMC,72592.7607609,Reattachment,16892.0,long,Sediment_Deficit
 003l,1994-10-21,chanminto8k,16803.16507,17107.10065,48198.22881,3024.569713,Channel,Channel_Low_Elevation.csv,1994-11-20,long,1_UMC,72592.7607609,Reattachment,16892.0,long,Sediment_Deficit
 003l,1995-04-24,chanminto8k,16888.2541,17250.88349,51422.39562,3039.885737,Channel,Channel_Low_Elevation.csv,1995-04-24,long,1_UMC,72592.7607609,Reattachment,16892.0,long,Sediment_Deficit
