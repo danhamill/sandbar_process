@@ -48,8 +48,7 @@ def assign_period(row):
         return 'Sediment_Enrichment'
     elif row['TripDate'] < pd.to_datetime('2003-11-01'):
         return 'Sediment_Deficit'
-    else:
-        pass
+
     
     
 if platform.system() == 'Windows':
